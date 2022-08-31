@@ -89,8 +89,8 @@ sidebar:
    name="Eduardo Blanco"
    picture="/assets/images/committee/sac/EduardoBlanco.jpg"
    site="https://eduardoblanco.github.io/"
-   institution="Arizona State University"
-   email="Eduardo.Blanco@asu.edu"
+   institution="University of Arizona"
+   email="eduardoblanco@arizona.edu"
 %}
 
 ### Natural Language Generation
