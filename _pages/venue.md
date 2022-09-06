@@ -26,6 +26,8 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 - Web: <https://adnec.ae>
 - E-mail: <customer.services@adnec.ae>
 
+For a virtual tour of ADNEC, click [here](https://mc-d9653e4f-fac4-4f15-86b2-409600-cd.azurewebsites.net/shared/virtualtour/index.html).
+
 ![adnec-1]({{ site.baseurl }}/assets/images/abu_dhabi/adnec.jpg)
 
 <!-- **Floor Plan**
