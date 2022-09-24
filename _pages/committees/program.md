@@ -58,6 +58,14 @@ sidebar:
    email="jason_williams4@apple.com"
 %}
 
+{% include committee-member.html
+   name="Meriem Beloucif"
+   picture="/assets/images/committee/sac/meriem_beloucif.png"
+   site=""
+   institution="Uppsala University (Sweden)"
+   email="meriem.beloucif@lingfil.uu.se"
+%}
+
 ### Discourse and Pragmatics
 {% include committee-member.html
    name="Yufang Hou"
