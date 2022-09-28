@@ -71,7 +71,7 @@ sidebar:
 {% include committee-member.html
    name="Daniel Hershcovich"
    picture="/assets/images/committee/Daniel_Hershcovich.jpg"
-   site=""
+   site="https://danielhers.github.io/"
    institution="University of Copenhagen"
    email = "dh@di.ku.dk"
 %}
