@@ -57,5 +57,5 @@ We aim to send all notifications by the deadline above. However, we will start p
 ## Contact details
 EMNLP 2022 Diversity and Inclusion team: emnlp2022-dei-chairs@googlegroups.com
 
-##Acknowledgements
+## Acknowledgements
 This document is largely based on the blogpost by the NAACL 2022 D&I committee: [https://2022.naacl.org/blog/subsidies/](https://2022.naacl.org/blog/subsidies/). We would like to take this opportunity to thank the members of the NAACL 2022 D&I and in particular [Nedjma Ousidhoum](ndo24@cam.ac.uk) for their help and answers to our questions.
