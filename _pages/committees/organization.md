@@ -192,8 +192,8 @@ sidebar:
    name="Hanan Aldarmaki"
    picture="/assets/images/committee/Hanan_Aldarmaki.jpg"
    site=""
-   institution="United Arab Emirates University"
-   email = "h-aldarmaki@uaeu.ac.ae"
+   institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+   email = "hanan.aldarmaki@mbzuai.ac.ae"
 %}
 
 <h2>Virtual Infrastructure Chair</h2>
