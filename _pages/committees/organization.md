@@ -296,7 +296,7 @@ sidebar:
    name="Eric Xing, Co-Chair"
    picture="/assets/images/committee/Eric_Xing.jpg"
    site=""
-   institution="Mohamed bin Zayed University of AI"
+   institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
    email = "president@mbzuai.ac.ae"
 %}
 
@@ -304,8 +304,8 @@ sidebar:
    name="Hanan Aldarmaki"
    picture="/assets/images/committee/Hanan_Aldarmaki.jpg"
    site=""
-   institution="United Arab Emirates University"
-   email = "h-aldarmaki@uaeu.ac.ae"
+   institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+   email = "hanan.aldarmaki@mbzuai.ac.ae"
 %}
 
 {% include committee-member.html
@@ -352,8 +352,8 @@ sidebar:
    name="Go Inoue"
    picture="/assets/images/committee/Go_Inoue.jpg"
    site=""
-   institution="New York University Abu Dhabi"
-   email = "go.inoue@nyu.edu"
+   institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+   email = "go.inoue@mbzuai.ac.ae"
 %}
 
 {% include committee-member.html
