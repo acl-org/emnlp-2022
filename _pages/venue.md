@@ -339,7 +339,7 @@ Discretion is generally advisable.  -->
 
 **What advice do you have for LGBTQ+ visitors?**
 
-The local organization team has been in touch with leaders of LGBTQ+ affinity groups to discuss how to make the venue most hospitable and answer any concerns they may have. A document with advice for LGBTQ+ visitors is coming soon.
+The local organization team has been in touch with leaders of LGBTQ+ affinity groups to discuss how to make the venue most hospitable and answer any concerns they may have. A blog post with advice for LGBTQ+ visitors is available [here](https://2022.emnlp.org/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations/).
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
