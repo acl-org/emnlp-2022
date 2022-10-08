@@ -17,7 +17,7 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 [**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
 {: .text-center .notice--info}
 
-## LASTEST BLOG POSTS 
+
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
