@@ -82,6 +82,26 @@ The selection process generally consists of the following steps.
 4. The committee, ACL treasurer, and business manager have discussions on the selection. They also communicate with the bidders when necessary, gathering as much information as is needed to make a decision.
 {: .answer}
 
+Q: I committed my ARR submission to EMNLP. The ARR meta reviews and reviewer comments are all positive. However, our submission was not accepted for presentation at the conference. Can I know the reason?
+{: .question}
+A: This year we have a highly competitive selection process, with many high-quality submissions. However, we can only accommodate a limited number of submissions at the main conference, and therefore the program committee works hard to select the most outstanding submissions In fact, most of the ARR submissions receive positive evaluation, and the senior area chairs worked hard to rank them together with the direct submissions. The final rankings are not based solely on the evaluation score.
+{: .answer}
+
+Q: Do I have additional space for addressing reviewer comments in my final version?
+{: .question}
+A: When working on the camera-ready version, you have an extra page of content (total of 9 pages for long papers and 5 pages for short).
+{: .answer}
+
+Q: My paper is accepted! Can I put my accepted papers to arXiv?
+{: .question}
+A: Yes you can, but we suggest that you address the reviewer suggestions before doing that.
+{: .answer}
+
+Q: Why do I not receive additional comments or meta-review for my ARR submission?
+{: .question}
+A: The senior area chairs made selection of ARR submissions into the EMNLP conference by directly reading the reviews and meta-reviews from ARR, and then deciding a ranking of all submissions.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
