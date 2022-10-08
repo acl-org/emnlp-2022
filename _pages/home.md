@@ -21,8 +21,8 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ## LASTEST BLOG POSTS 
 
 <style>
-.news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+.notice--warning del { color: #888; }
 </style>
 
 | Oct 4, 2022 | [LGBTQ+ Visitor Considerations](/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations)
