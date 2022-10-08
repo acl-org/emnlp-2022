@@ -102,6 +102,11 @@ Q: Why do I not receive additional comments or meta-review for my ARR submission
 A: The senior area chairs made selection of ARR submissions into the EMNLP conference by directly reading the reviews and meta-reviews from ARR, and then deciding a ranking of all submissions.
 {: .answer}
 
+Q: My paper is accepted to Findings of EMNLP 2022, and I wonder if it is eligible for presentation at the main conference?
+{: .question}
+A: Findings are not accommodated for presentation at the main conference. For more information, you can check https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
