@@ -21,8 +21,11 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ## LASTEST BLOG POSTS 
 
 <style>
-.news-table { font-size: .9em; table-layout: fixed; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+/*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }*/
+.news-table { font-size: .9em; table-layout: fixed;}
+.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
+.news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
 | Oct 4, 2022 | [LGBTQ+ Visitor Considerations](/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations)
 | Sep 30, 2022 | [Call for Diversity and Inclusion Subsidies](/blog/Call-for-Diversity-and-Inclusion-Subsidies)
