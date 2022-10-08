@@ -17,6 +17,20 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 [**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
 {: .text-center .notice--info}
 
+## LASTEST BLOG POSTS 
+<style>
+.news-table { font-size: .9em; table-layout: fixed; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+</style>
+| October 04, 2022 | [LGBTQ+ Visitor Considerations](/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations)
+| September 30, 2022 | [Call for Diversity and Inclusion Subsidies](/blog/Call-for-Diversity-and-Inclusion-Subsidies)
+| August 15, 2022 | [Short Pieces on Reviewing](/blog/Short-Pieces-on-Reviwing)
+| July 29, 2022 | [Information Sessions and Promotional Video for EMNLP 2022](/blog/Information-Sessions-and-Promotional-Video-for-EMNLP-2022)
+{: .news-table}
+
+[Older BLOG POSTS](/blog/){: .btn .btn--info}
+{: .text-center}
+
 <!-- <div class="text-center notice--danger">
 <p>Please fill out the short <a href="https://forms.office.com/r/Ww583kAMf7"><strong>post-conference survey</strong></a> to help us better organize future conferences.</p>
 <p style="font-size: 80%">The survey takes ~4 minutes to complete. Note that there will be no email receipt once you hit submit, and please only submit once.
