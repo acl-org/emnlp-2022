@@ -12,9 +12,9 @@ sidebar:
 
 ## Tutorial Schedule
 
-**Date:** 6 Jun 2021 (all times PDT, UTC-7)
+**Date:** **Date:** Wednesday 7 Dec 2022, Thursday 8 December 2022
 
-**Morning Session (08:00–12:00)**
+<!-- **Morning Session (08:00–12:00)**
 * [T1](#t1): Pretrained Transformers for Text Ranking: BERT and Beyond
 * [T2](#t2): Fine-grained Interpretation and Causation Analysis in Deep NLP Models
 * [T3](#t3): Deep Learning on Graphs for Natural Language Processing
@@ -22,10 +22,39 @@ sidebar:
 * [T5](#t5): Beyond Paragraphs: NLP for Long Sequences
 
 **Evening Session (16:00–20:00)**
-* [T6](#t6): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial
+* [T6](#t6): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial -->
 
+## T1 (Wednesday 7 Dec 2022): Meaning Representations for Natural Languages: Design, Models and Applications
+{: #t1}
 
-## T1 (Morning, 8-12): Pretrained Transformers for Text Ranking: BERT and Beyond
+Jeffrey Flanigan, Ishan Jindal, Yunyao Li, Tim O'Gorman, Martha Palmer
+
+## T2 (Wednesday 7 Dec 2022): Arabic Natural Language Processing
+{: #t1}
+
+Nizar Habash
+
+## T3 (Wednesday 7 Dec 2022): Emergent Language-Based Coordination In Deep Multi-Agent Systems
+{: #t1}
+
+Marco Baroni, Roberto Dessi, Angeliki Lazaridou
+
+## T4 (Thursday 8 December 2022): Tutorial on Causal Inference for Natural Language Processing
+{: #t1}
+
+Zhijing Jin, Amir Feder, Kun Zhang
+
+## T5 (Thursday 8 December 2022): Modular and Parameter-Efficient Fine-Tuning for NLP Models
+{: #t1}
+
+Sebastian Ruder, Jonas Pfeiffer, Ivan Vulic
+
+## T6 (Thursday 8 December 2022): Non-Autoregressive Models for Fast Sequence Generation  
+{: #t1}
+
+Yang Feng, Chenze Shao
+
+<!-- ## T1 (Morning, 8-12): Pretrained Transformers for Text Ranking: BERT and Beyond
 {: #t1}
 
 <a href="mailto:ayates@mpi-inf.mpg.de">Andrew Yates</a>,
@@ -111,3 +140,4 @@ A significant subset of natural language data includes documents that span thous
 **LIVE**
 
 In this introductory tutorial, we present a portion of our six-year-long unique industry experience in efficient natural language data annotation via Crowdsourcing. We will make an introduction to data labeling via public crowdsourcing marketplaces, and will present the key components of efficient label collection that includes task design and decomposition, quality control, and annotator selection. This will be followed by a practical session, where participants address a real-world language resource production task, experiment with selecting settings for the labeling process, and launch their label collection project on one of the largest crowdsourcing marketplaces. The projects will be run on real crowds within the tutorial session. We will present useful mathematical foundations, quality control techniques and tricks, and provide the attendees with an opportunity to discuss their own annotation ideas.
+ -->
