@@ -16,12 +16,10 @@ Please refer to each individual event's website for more details.
 
 ## Wednesday 7 December 2022
 
-### W1: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](
-https://emw.ku.edu.tr/case-2022/)
+### W1: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](https://emw.ku.edu.tr/case-2022/)
 Ali Hürriyetoğlu, Hristo Tanev, Vanni Zavarella and Erdem Yörük
 
-### W2: [CoNLL: The SIGNLL Conference on Computational Natural Language Learning](
-https://conll.org/)
+### W2: [CoNLL: The SIGNLL Conference on Computational Natural Language Learning](https://conll.org/)
 Vivek Srikumar and Antske Fokkens
 
 ### W3: [WMT: Seventh Conference on Machine Translation](http://www.statmt.org/wmt22/)
@@ -59,12 +57,10 @@ Shaily Bhatt, Sunipa Dev, Bonaventure Dossou, Tirthankar Ghosal, Hatem Haddad, H
 
 ## Thursday 8 December 2022
 
-### W1: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](
-https://emw.ku.edu.tr/case-2022/)
+### W1: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](https://emw.ku.edu.tr/case-2022/)
 Ali Hürriyetoğlu, Hristo Tanev, Vanni Zavarella and Erdem Yörük
 
-### W2: [CoNLL: The SIGNLL Conference on Computational Natural Language Learning](
-https://conll.org/)
+### W2: [CoNLL: The SIGNLL Conference on Computational Natural Language Learning](https://conll.org/)
 Vivek Srikumar and Antske Fokkens
 
 ### W3: [WMT: Seventh Conference on Machine Translation](http://www.statmt.org/wmt22/)
@@ -106,12 +102,10 @@ Houda Bouamor, Hend Al-Khalifa, Kareem Darwish, Owen Rambow, Fethi Bougares, Ahm
 
 ## Both Days: Wednesday-Thursday 7-8 December 2022
 
-### W1: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](
-https://emw.ku.edu.tr/case-2022/)
+### W1: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](https://emw.ku.edu.tr/case-2022/)
 Ali Hürriyetoğlu, Hristo Tanev, Vanni Zavarella and Erdem Yörük
 
-### W2: [CoNLL: The SIGNLL Conference on Computational Natural Language Learning](
-https://conll.org/)
+### W2: [CoNLL: The SIGNLL Conference on Computational Natural Language Learning](https://conll.org/)
 Vivek Srikumar and Antske Fokkens
 
 ### W3: [WMT: Seventh Conference on Machine Translation](http://www.statmt.org/wmt22/)
