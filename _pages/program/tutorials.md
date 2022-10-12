@@ -12,7 +12,7 @@ sidebar:
 
 ## Tutorial Schedule
 
-**Date:** **Date:** Wednesday 7 Dec 2022, Thursday 8 December 2022
+**Date:** Wednesday 7 Dec 2022, Thursday 8 December 2022
 
 <!-- **Morning Session (08:00–12:00)**
 * [T1](#t1): Pretrained Transformers for Text Ranking: BERT and Beyond
