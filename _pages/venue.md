@@ -190,7 +190,7 @@ The EMNLP Social Event will be held on Saturday December 10, 2022 from 7:00pm â€
 Transportation to the event:     
 Charter buses will be available from ADNEC to the Ritz Carlton beginning at 6:30pm to 10:30pm. Departures from the Ritz will stop by Andaz, Aloft and Adnec. 
  
-Places to visit:    
+### Places to visit:    
 <u>Dining</u>        
 There are a variety of dining selections located near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you or click on links below to get you started!     
 
