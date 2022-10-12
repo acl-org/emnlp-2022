@@ -60,8 +60,8 @@ program:
 #        url: /program/keynotes/
       - title: "Workshops"
         url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
+#      - title: "Tutorials"
+#        url: /program/tutorials/
 #      - title: "Accepted Papers"
 #        url: /program/accepted/
 #      - title: "Social Programs"
