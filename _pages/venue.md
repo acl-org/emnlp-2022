@@ -176,9 +176,61 @@ Low-cost [airbnb](https://www.airbnb.ae/) affordable accommodations are also ava
 <!-- The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
 From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family. -->
 
+## Premier Inn – Student Block
+More details coming soon!
 
 ## Welcome Reception and Social Event
-More details coming soon!
+
+### Welcome Reception 
+A Welcome Reception will be held on Thursday December 8, 2022from 7:00pm to 10:00pm. Join us at the Aloft Abu Dhabi Hotel where you can meet and make new friends and catch up with your colleagues over a drink (alcoholic & nonalcoholic drink ticket to be provided) and light canapes. 
+ 
+### Social Event 
+The EMNLP Social Event will be held on Saturday December 10, 2022 from 7:00pm – 10:00pm at the [Ritz-Carlton Abu Dhabi, Grand Canal Hotel](https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi?scid=6086e1f4-af86-4268-a5e9-ecef4e9075cf&ppc=ppc&pId=ustbppc&nst=paid&gclid=872a19c941e3106b22547ae374f72f01&gclsrc=3p.ds&msclkid=872a19c941e3106b22547ae374f72f01). With its, captivating sunsets and extraordinary view of the Sheikh Zayed Grand Mosque. You will be sure to enjoy an evening out at our Social Event with luxurious foods and libations (alcoholic and nonalcoholic drink ticket provided), along with Abu Dhabi’s local entertainment compliments of the Department of Tourism, and a DJ for some evening dancing.  
+
+Transportation to the event:     
+Charter buses will be available from ADNEC to the Ritz Carlton beginning at 6:30pm to 10:30pm. Departures from the Ritz will stop by Andaz, Aloft and Adnec. 
+ 
+Places to visit:    
+<u>Dining</u>    
+There are a variety of dining selections located near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you or click on links below to get you started!     
+
+[Restaurants & Cafes in Abu Dhabi | ADNEC - Abu Dhabi, UAE](https://www.adnec.ae/en/visit/restaurants-listing)
+
+**American/Japanese**     
+[Maxi Sushi & Sliders Restaurant](https://maxiesushi.com/)     
+**French**     
+[Le Beaujolais](https://www.tripadvisor.com/Restaurant_Review-g294013-d2436405-Reviews-Le_Beaujolais-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
+**Indian**     
+[Moti Mahal Delux](https://www.motimahaldeluxeuae.com/)      
+**Irish**     
+[Pj O’Reilly’s](https://www.pjspubabudhabi.com/)     
+**Italian**     
+[Spaccanapoli Ristorante](https://www.tripadvisor.co.uk/Restaurant_Review-g294013-d2401142-Reviews-or555-Spaccanapoli_Ristorante-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
+**Lebanese**     
+[Phoenician Restaurant and Lounge](http://www.phoenician-restaurant.com/)     
+**Mediterranean Seafood**     
+[Flooka](http://www.flooka.com/home-alt)     
+**Middle Eastern**     
+[The Corniche](https://www.theterraceonthecorniche.com/site-map)     
+**Steakhouse**     
+[Nusr-Et Steakhouse](https://www.tripadvisor.com/Restaurant_Review-g294013-d12334889-Reviews-Nusr_Et_Steakhouse-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
+**Vegetarian, Indian**     
+[Golden Spook](https://www.tripadvisor.ca/Restaurant_Review-g294013-d3924523-Reviews-Golden_Spoon_Vegetarian_Restaurant-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)      
+
+### Currency & Living Cost 
+Add: Use a search engine to find a currency convertor for the current exchange rate. 
+ 
+### FAQ’s 
+ 
+Add at the end:      
+Your first visit to Abu Dhabi?       
+Go to [Visit Abu Dhabi](https://visitabudhabi.ae/en) and use the search engine to find specific topics. Or click on a link below to get started.      
+[Business Culture](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/meetings)      
+[Dining Culture](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/dining)      
+[Greetings](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/greeting)      
+
+
+
 
 ## Childcare
 Please check with the specific hotel where you plan to stay for childcare support.
