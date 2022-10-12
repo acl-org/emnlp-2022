@@ -24,35 +24,35 @@ sidebar:
 **Evening Session (16:00–20:00)**
 * [T6](#t6): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial -->
 
-## T1 (Wednesday 7 Dec 2022): Meaning Representations for Natural Languages: Design, Models and Applications
-{: #t1}
-
-Jeffrey Flanigan, Ishan Jindal, Yunyao Li, Tim O'Gorman, Martha Palmer
-
-## T2 (Wednesday 7 Dec 2022): Arabic Natural Language Processing
-{: #t1}
-
-Nizar Habash
-
-## T3 (Wednesday 7 Dec 2022): Emergent Language-Based Coordination In Deep Multi-Agent Systems
+## T1 (Wednesday 7 Dec, evening slot): Emergent Language-Based Coordination In Deep Multi-Agent Systems  
 {: #t1}
 
 Marco Baroni, Roberto Dessi, Angeliki Lazaridou
 
-## T4 (Thursday 8 December 2022): Tutorial on Causal Inference for Natural Language Processing
+## T2 (Thursday 8 December): Tutorial on Causal Inference for Natural Language Processing
 {: #t1}
 
 Zhijing Jin, Amir Feder, Kun Zhang
 
-## T5 (Thursday 8 December 2022): Modular and Parameter-Efficient Fine-Tuning for NLP Models
+## T3 (): Meaning Representations for Natural Languages: Design, Models and Applications
+{: #t1}
+
+Jeffrey Flanigan, Ishan Jindal, Yunyao Li, Tim O'Gorman, Martha Palmer
+
+## T4 (): Modular and Parameter-Efficient Fine-Tuning for NLP Models
 {: #t1}
 
 Sebastian Ruder, Jonas Pfeiffer, Ivan Vulic
 
-## T6 (Thursday 8 December 2022): Non-Autoregressive Models for Fast Sequence Generation  
+## T5 (): Non-Autoregressive Models for Fast Sequence Generation  
 {: #t1}
 
 Yang Feng, Chenze Shao
+
+## T6 (Wednesday 7 Dec): Arabic Natural Language Processing
+{: #t1}
+
+Nizar Habash
 
 <!-- ## T1 (Morning, 8-12): Pretrained Transformers for Text Ranking: BERT and Beyond
 {: #t1}
