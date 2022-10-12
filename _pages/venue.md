@@ -43,6 +43,41 @@ For a virtual tour of ADNEC, click [here](https://mc-d9653e4f-fac4-4f15-86b2-409
 ![adnec-1](/assets/images/abu_dhabi/20191230_ADNEC Venue_153.jpg) -->
 
 ## Transportation
+Abu Dhabi International Airport Contact Information.     
+Tel: +971 2 505 555 to speak to a customer service adviser or click here for more information. [Contact (abudhabiairport.ae)](https://www.abudhabiairport.ae/en/contact)    
+
+Alternate airports and transportation
+
+Dubai International Airport (DXB/OMDB)    
+Located approximately 1 hour and 15 minutes from Abu Dhabi    
+Dubai Airports Call Centre available 24/7    
+Tel: +971-4 224 5555    
+Immigration Tel: +971 4 313 9999    
+Email: amer@dnrd.ae     
+Live Chat: [Contact | Dubai Airports](https://www.dubaiairports.ae/contact)    
+Website: [Passengers | Dubai Airports](https://www.dubaiairports.ae/)    
+
+
+Dubai World Central Al Maktoum International Airport (DWC/OMDW)    
+Located approximately 1 hour from Abu Dhabi    
+Dubai Airports Call Centre available 24/7    
+Tel: +971-4 224 5555    
+Immigration Tel: +971 4 313 9999    
+Email: amer@dnrd.ae     
+Live Chat: [Contact | Dubai Airports](https://www.dubaiairports.ae/contact)    
+Website: [Passengers | Dubai Airports](https://www.dubaiairports.ae/)    
+
+Transportation options from either airport to Abu Dhabi    
+Car rentals companies: Pricing dependent of availability and car selection.    
+[Enterprise](https://www.enterprise.com/en/car-rental.html?icid=header.reservations.car.rental-_-start.a.res-_-ENUS.NULL)     
+[Hertz](https://www.hertz.com/rentacar/reservation/)     
+[Dollar](https://www.dollar.com/Reservations/ResStart.aspx)    
+[Sixt](https://www.sixt.com/betahome/)     
+[Europcar](https://www.europcar.com/en-us?gclid=84581d6d378e151f05287e46b16d0746&gclsrc=3p.ds&msclkid=84581d6d378e151f05287e46b16d0746&utm_source=bing&utm_medium=cpc&utm_campaign=%5BBIN%5D-%5BENG%5D-%5BCar%5D-%5BSource_United-States%5D-%5BDestination_ROW%5D-%5Beuropcar.com%5D-%5BBrand_BST%5D-%5BPFX%5D&utm_term=europcar&utm_content=Brand-SingleTerm_None_None_None_None_None_Exact)     
+[Green Motion](https://www.greenmotion.gr/)    
+Taxi: Expect to pay US$60 – US$75 [arabiataxi.ae](http://www.arabiataxi.ae/Dubai/en/index.html) Expect to have cash many don’t take credit card.         
+Uber: Expect to pay more than a taxi but convenient to use if you don’t have cash.         
+For more transportation information to Abu Dhabi from Dubai or Jebel Ali visit: [rome2rio.com](https://www.rome2rio.com/map/Dubai-Al-Maktoum-Intl-Airport-DWC/Abu-Dhabi)    
 
 ### International Flights 
 
