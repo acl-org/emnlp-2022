@@ -131,7 +131,7 @@ The 188 stylish guest rooms offer optimum luxury coupled with cutting-edge techn
 Rooms are available from 06 December 2022 – 12 December 2022; standard room, single rate AED 850, AED 915. Based on availability. Link to book coming soon. [**Book your group rate for the 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)
  
 ### Aloft Abu Dhabi     
-Inclusive rates starting at AED 438    
+Inclusive rates starting at AED 440    
 Address: Abu Dhabi National Exhibition, Al     
 &emsp;&emsp;&emsp;Khaleej Al Arabi Street, P.O. Box 94943     
 &emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates     
@@ -151,11 +151,6 @@ Alternative accommodation options, for example hostels, B&Bs and short-term lodg
 
 Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands
 from budget-conscious to 5-star luxury.
-
-Andaz - Booking link for Hotel block (link valid from 6 to 12 December 2022): [https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)      
- 
-Aloft - Starting at AED 440 a night     
-Booking link  for hotel block: [https://www.marriott.com/events/start.mi?id=1662116653508&key=GRP](https://www.marriott.com/events/start.mi?id=1662116653508&key=GRP)
 
 <!-- , there is no better place to experience our legendary Arabian Hospitality. -->
 <!-- 
