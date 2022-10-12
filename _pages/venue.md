@@ -116,7 +116,7 @@ Two hotels have been selected near the conference center that will provide speci
 ### Andza Capital Gate, Abu Dhabi
 Inclusive Rate starting at AED 850    
 Address: P.O. Box 95165      
-&emsp;&emsp;Abu Dhabi, United Arab Emirates     
+&emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates     
 Tel: +971 2 596 1234     
 Email: [abudhabi.capitalgate@hyatt.com](mailto:abudhabi.capitalgate@hyatt.com)     
 Website: [Boutique 5 star hotel in Abu Dhabi | Andaz Abu Dhabi (hyatt.com)](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc)     
@@ -133,8 +133,8 @@ Rooms are available from 06 December 2022 – 12 December 2022; standard room, s
 ### Aloft Abu Dhabi     
 Inclusive rates starting at AED 438    
 Address: Abu Dhabi National Exhibition, Al     
-&emsp;&emsp;Khaleej Al Arabi Street, P.O. Box 94943     
-&emsp;&emsp;Abu Dhabi, United Arab Emirates     
+&emsp;&emsp;&emsp;Khaleej Al Arabi Street, P.O. Box 94943     
+&emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates     
 Tel: +971 2-654 5000     
 Website: [Abu Dhabi 4-Star Hotel in UAE | Aloft Abu Dhabi (marriott.com)](https://www.marriott.com/en-us/hotels/auhnl-aloft-abu-dhabi/overview/)     
  
