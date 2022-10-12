@@ -75,9 +75,9 @@ The COVID-19 global situation is continuously changing. For the latest informati
 Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands
 from budget-conscious to 5-star luxury.
 
-Andaz - Booking link for Hotel block (link valid from 6 to 12 December 2022): [https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)
+Andaz - Booking link for Hotel block (link valid from 6 to 12 December 2022): [https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)      
  
-Aloft - Starting at AED 440 a night 
+Aloft - Starting at AED 440 a night     
 Booking link  for hotel block: [https://www.marriott.com/events/start.mi?id=1662116653508&key=GRP](https://www.marriott.com/events/start.mi?id=1662116653508&key=GRP)
 
 <!-- , there is no better place to experience our legendary Arabian Hospitality. -->
