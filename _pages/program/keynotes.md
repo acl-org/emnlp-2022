@@ -37,7 +37,7 @@ worked on natural language processing and information retrieval technology at Xe
 {: .speaker-bio}
 
 
-## Dhruv Batra
+<!--## Dhruv Batra
 
 ![Dhruv Batra](/assets/images/keynotes/Dhruv_Batra.jpg){: .align-center}
 
@@ -99,5 +99,5 @@ Dr. Aya Soffer is Vice President of AI Technologies for the IBM Research AI orga
 Semantic Scholar (S2) is a 40 person effort at the Allen Institute for Artificial Intelligence that drives a website used by almost 100M people each year. Our mission is to accelerate the progress of scientific research with augmented intelligence - advanced tools that make it easier to find relevant research, digest it quickly, and make connections between different problems and approaches. This talk will survey some of the NLP advances underlying S2, from the identification of emerging scientific concepts to extreme abstractive summarization, full-document understanding, and fact checking.
 
 Daniel S. Weld is Thomas J. Cable / WRF Professor in the Paul G. Allen School of Computer Science & Engineering, manages the Semantic Scholar research group at the Allen Institute of Artificial Intelligence, and is Venture Partner at the Madrona Venture Group.  After formative education at Phillips Academy, he received bachelor's degrees in both Computer Science and Biochemistry at Yale University in 1982. He landed a Ph.D. from the MIT Artificial Intelligence Lab in 1988, received a Presidential Young Investigator's award in 1989, an Office of Naval Research Young Investigator's award in 1990, was named AAAI Fellow in 1999 and deemed ACM Fellow in 2005. Dan was a founding editor for the Journal of AI Research, was area editor for the Journal of the ACM.  Dan has co-founded three companies, Netbot (sold to Excite), Adrelevance (sold to Media Metrix), and Nimble technology (sold to Actuate).
-{: .speaker-bio}
+{: .speaker-bio}-->
 
