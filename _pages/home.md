@@ -27,10 +27,10 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| Oct 14, 2022 | [Call for BoF Proposals](blog/Call-for-BoF-Proposals/)
 | Oct 4, 2022 | [LGBTQ+ Visitor Considerations](/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations)
 | Sep 30, 2022 | [Call for Diversity and Inclusion Subsidies](/blog/Call-for-Diversity-and-Inclusion-Subsidies)
 | Aug 15, 2022 | [Short Pieces on Reviewing](/blog/Short-Pieces-on-Reviwing)
-| July 29, 2022 | [Information Sessions and Promotional Video for EMNLP 2022](/blog/Information-Sessions-and-Promotional-Video-for-EMNLP-2022)
 {: .news-table}
 
 [Older BLOG POSTS](/blog/){: .btn .btn--info}
