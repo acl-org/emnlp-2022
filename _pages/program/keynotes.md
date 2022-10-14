@@ -1,7 +1,7 @@
 ---
-title: Keynote Speakers (Main Conference and Industry Track)
+title: Keynote 
 layout: single
-excerpt: "NAACL 2021 Keynote Speakers."
+excerpt: "EMNLP 2022 Keynote Speakers."
 permalink: /program/keynotes/
 toc: true
 toc_sticky: true
@@ -10,17 +10,17 @@ sidebar:
     nav: program
 ---
 
-The following speakers have graciously accepted to give keynotes at NAACL 2021.
+The following speakers have graciously agreed to give keynotes at EMNLP 2022.
 
 <style>
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## Hinrich Schütze
+## Speaker: Mona Diab
 
-![Hinrich Schütze](/assets/images/keynotes/Hinrich_Schuetze.jpg){: .align-center}
+![Mona Diab](/assets/images/keynotes/keynote_Speaker_Mona_Diab.jpg){: .align-center}
 
-### Humans Learn From Task Descriptions and So Should Our Models
+<!--### Humans Learn From Task Descriptions and So Should Our Models
 *Main Conference Keynote<br>Monday, June 7, 08:00--09:00 PDT*
 
 Joint work with Timo Schick and Sahana Udupa
@@ -30,10 +30,11 @@ Task descriptions are ubiquitous in human learning.  They are usually accompanie
 We introduce Pattern-Exploiting Training (PET), an approach to learning that mimicks human learning in that it leverages task descriptions in few-shot settings.  PET is built on top
 of a pretrained language model that "understands" the task description, especially after finetuning, resulting in excellent performance compared to other few-shot methods. In particular, a model trained with PET outperforms GPT-3 even though it has 99.9% fewer parameters.
 
-In the last part of the talk, I will show how bias in NLP models can be addressed using task descriptions. Instructing a model to reveal and reduce its biases is remarkably effective and may contribute in the future to a fairer and more inclusive NLP.
+In the last part of the talk, I will show how bias in NLP models can be addressed using task descriptions. Instructing a model to reveal and reduce its biases is remarkably effective and may contribute in the future to a fairer and more inclusive NLP.-->
 
-Hinrich Schütze (PhD 1995, Stanford University) is Professor for Computational Linguistics and director of the Center for Information and Language Processing at the University of Munich (LMU Munich).  Before moving to Munich in 2013, he taught at the University of Stuttgart.  He
-worked on natural language processing and information retrieval technology at Xerox PARC, at several Silicon Valley startups and at Google 1995-2004 and 2008/9.  He is a coauthor of Foundations of Statistical Natural Language Processing (with Chris Manning) and Introduction to Information Retrieval (with Chris Manning and Prabhakar Raghavan). Ever since starting his PhD in the early 1990s, Hinrich's research interests have been at the interface of linguistics, neural networks and computer science.
+Mona Diab is the Lead Responsible AI Research Scientist with Meta.  She is also a full Professor of Computer Science at the George Washington University (on leave) where she directs the CARE4Lang NLP Lab. Before joining Meta, she led the  Lex Conversational AI project within Amazon AWS AI. Her current focus is on Responsible AI and how to operationalize it for NLP technologies. Her interests span building robust technologies for low resource scenarios with a special interest in Arabic technologies, (mis) information propagation, computational socio-pragmatics, computational psycholinguistics, NLG evaluation metrics, Language modeling and resource creation. Mona has served the community in several capacities: Elected President of SIGLEX and SIGSemitic, and she currently serves as the elected VP for ACL SIGDAT, the board supporting EMNLP conferences. She has delivered tutorials and organized numerous workshops and panels around Arabic processing, Responsible NLP, Code Switching, etc. She is a cofounder of CADIM (Consortium on Arabic Dialect Modeling, previously known as Columbia University Arabic Dialects Modeling Group), in 2005, which served as a world renowned reference point on Arabic Language Technologies. Moreover she helped establish two research trends in NLP, namely computational approaches to Code Switching and Semantic Textual Similarity. She is also a founding member of the *SEM conference, one of the top tier conferences in NLP. Mona has published more than 250 peer reviewed articles.
+
+Affiliation: Meta Responsible AI 
 {: .speaker-bio}
 
 
