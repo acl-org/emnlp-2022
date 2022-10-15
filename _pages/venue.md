@@ -188,9 +188,6 @@ Deadline to reserve rooms: October 31, 2022
 Alternative accommodation options, for example hostels, B&Bs and short-term lodging, can be found via the usual search engines.    
 
 
-
-
-
 Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands
 from budget-conscious to 5-star luxury.
 
@@ -213,7 +210,7 @@ Low-cost [airbnb](https://www.airbnb.ae/) affordable accommodations are also ava
 <!-- The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
 From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family. -->
 
-## Premier Inn – Student Block
+### Premier Inn – Student Block
 More details coming soon!
 
 ## Welcome Reception and Social Event
