@@ -225,30 +225,9 @@ Transportation to the event:
 Charter buses will be available from ADNEC to the Ritz Carlton beginning at 6:30pm to 10:30pm. Departures from the Ritz will stop by Andaz, Aloft and Adnec. 
  
 ## Dining Options     
-There are a variety of dining selections located near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you or click on links below to get you started!     
+There are a variety of dining selections located near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you.    
 
 **[Restaurants & Cafes in Abu Dhabi &#124; ADNEC - Abu Dhabi, UAE](https://www.adnec.ae/en/visit/restaurants-listing)**
-
-- **American/Japanese**     
-[Maxi Sushi & Sliders Restaurant](https://maxiesushi.com/)     
-- **French**     
-[Le Beaujolais](https://www.tripadvisor.com/Restaurant_Review-g294013-d2436405-Reviews-Le_Beaujolais-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
-- **Indian**     
-[Moti Mahal Delux](https://www.motimahaldeluxeuae.com/)      
-- **Irish**     
-[Pj O’Reilly’s](https://www.pjspubabudhabi.com/)     
-- **Italian**     
-[Spaccanapoli Ristorante](https://www.tripadvisor.co.uk/Restaurant_Review-g294013-d2401142-Reviews-or555-Spaccanapoli_Ristorante-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
-- **Lebanese**     
-[Phoenician Restaurant and Lounge](http://www.phoenician-restaurant.com/)     
-- **Mediterranean Seafood**     
-[Flooka](http://www.flooka.com/home-alt)     
-- **Middle Eastern**     
-[The Corniche](https://www.theterraceonthecorniche.com/site-map)     
-- **Steakhouse**     
-[Nusr-Et Steakhouse](https://www.tripadvisor.com/Restaurant_Review-g294013-d12334889-Reviews-Nusr_Et_Steakhouse-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
-- **Vegetarian, Indian**     
-[Golden Spook](https://www.tripadvisor.ca/Restaurant_Review-g294013-d3924523-Reviews-Golden_Spoon_Vegetarian_Restaurant-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)      
 
 There are also a number of cafes (Costa, Starbucks) and two supermarkets (Zoom and Lulu Express) within 5 minute walking from ADNEC.
 
