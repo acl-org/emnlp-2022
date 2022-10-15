@@ -134,7 +134,7 @@ We recommend **[Capital Experience](http://www.capitalexperience.ae)**, a sister
  
  ![adnec-1]({{ site.baseurl }}/assets/images/abu_dhabi/capitalexp.jpg)
 
-***Contacts***    
+***Capital Experience Contact***    
 **Subhendu Nayak**   
 **Assistant – Operations (Transfer)**   
 **+971 (0) 2-406-3514**   
@@ -227,46 +227,36 @@ The EMNLP Social Event will be held on Saturday December 10, 2022 from 7:00pm �
 Transportation to the event:     
 Charter buses will be available from ADNEC to the Ritz Carlton beginning at 6:30pm to 10:30pm. Departures from the Ritz will stop by Andaz, Aloft and Adnec. 
  
-### Places to visit:    
-<u>Dining</u>        
+## Dining Options     
 There are a variety of dining selections located near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you or click on links below to get you started!     
 
-[Restaurants & Cafes in Abu Dhabi &#124; ADNEC - Abu Dhabi, UAE](https://www.adnec.ae/en/visit/restaurants-listing)
+**[Restaurants & Cafes in Abu Dhabi &#124; ADNEC - Abu Dhabi, UAE](https://www.adnec.ae/en/visit/restaurants-listing)**
 
-**American/Japanese**     
+- **American/Japanese**     
 [Maxi Sushi & Sliders Restaurant](https://maxiesushi.com/)     
-**French**     
+- **French**     
 [Le Beaujolais](https://www.tripadvisor.com/Restaurant_Review-g294013-d2436405-Reviews-Le_Beaujolais-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
-**Indian**     
+- **Indian**     
 [Moti Mahal Delux](https://www.motimahaldeluxeuae.com/)      
-**Irish**     
+- **Irish**     
 [Pj O’Reilly’s](https://www.pjspubabudhabi.com/)     
-**Italian**     
+- **Italian**     
 [Spaccanapoli Ristorante](https://www.tripadvisor.co.uk/Restaurant_Review-g294013-d2401142-Reviews-or555-Spaccanapoli_Ristorante-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
-**Lebanese**     
+- **Lebanese**     
 [Phoenician Restaurant and Lounge](http://www.phoenician-restaurant.com/)     
-**Mediterranean Seafood**     
+- **Mediterranean Seafood**     
 [Flooka](http://www.flooka.com/home-alt)     
-**Middle Eastern**     
+- **Middle Eastern**     
 [The Corniche](https://www.theterraceonthecorniche.com/site-map)     
-**Steakhouse**     
+- **Steakhouse**     
 [Nusr-Et Steakhouse](https://www.tripadvisor.com/Restaurant_Review-g294013-d12334889-Reviews-Nusr_Et_Steakhouse-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)     
-**Vegetarian, Indian**     
+- **Vegetarian, Indian**     
 [Golden Spook](https://www.tripadvisor.ca/Restaurant_Review-g294013-d3924523-Reviews-Golden_Spoon_Vegetarian_Restaurant-Abu_Dhabi_Emirate_of_Abu_Dhabi.html)      
+
+There are also a number of cafes (Costa, Starbucks) and two supermarkets (Zoom and Lulu Express) within 5 minute walking from ADNEC.
 
 ### Currency & Living Cost 
 Add: Use a search engine to find a currency convertor for the current exchange rate. 
- 
-### FAQ’s 
- 
-Add at the end:      
-Your first visit to Abu Dhabi?       
-Go to [Visit Abu Dhabi](https://visitabudhabi.ae/en) and use the search engine to find specific topics. Or click on a link below to get started.      
-[Business Culture](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/meetings)      
-[Dining Culture](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/dining)      
-[Greetings](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/greeting)      
-
-
 
 
 ## Childcare
@@ -420,6 +410,17 @@ The electricity supply in Abu Dhabi is 220/240 volts at 50 cycles. Standard Brit
 
 The official language of the UAE is Arabic. However, English is also very widely spoken throughout Abu Dhabi, especially in business, hospitality, retail environments, street signs, taxis, restaurant menus, etc. Urdu and Hindi are also widely spoken.
 
+For some basic Arabic phrases used commonly, check out [this site](https://www.visitdubai.com/en/articles/essential-arabic-phrases). The top eight to learn are:
+
+- Marhaba مرحبا Hello
+- Ahlan أهلاً Welcome
+- Ma'asalama مع السلامة Good Bye 
+- Shukran شكراً Thank you
+- Mabrook مبروك Congratulations
+- Yalla يلا Let's go
+- Khalas خلص enough/done
+- Inshallah إن شاء الله God willing, may be, no, and [a host of other context dependent meanings](https://twitter.com/HishamAidi/status/1574441615313313794) 
+
 
 <!-- **Public Holidays**
 
@@ -452,12 +453,20 @@ Tipping practices are similar to most other parts of the world. Most restaurants
 The tap water in Abu Dhabi is safe to drink. But locally bottled water is generally served in hotels and restaurants.
 
 
+
 <!-- **Bargaining**
 
 Bargaining is expected in the souk and is not unusual elsewhere. Vendors will usually drop the price and often quite substantially, particularly for a cash sale. -->
 
 
 ## FAQs
+
+**This is my first time traveling to Abu Dhabi. What's a good web site to start with?**
+
+You can  go to [Visit Abu Dhabi](https://visitabudhabi.ae/en) and use the search engine to find specific topics. Or click on a link below to get started:     
+* [Business Culture](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/meetings)      
+* [Dining Culture](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/dining)      
+* [Greetings](https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau/business-culture/greeting)      
 
 
 **Should I follow certain customs when visiting?**
@@ -510,8 +519,10 @@ Discretion is generally advisable.  -->
 
 The local organization team has been in touch with leaders of LGBTQ+ affinity groups to discuss how to make the venue most hospitable and answer any concerns they may have. A blog post with advice for LGBTQ+ visitors is available [here](https://2022.emnlp.org/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations/).
 
-**I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
+**I have never been to the UAE before, and I have some questions about traveling there. Who can I talk to?**
 
 The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
+
+
 
 *We plan on updating the FAQ continuously* 
