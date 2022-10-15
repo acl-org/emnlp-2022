@@ -423,8 +423,7 @@ Islamic holidays are based on the Hijri calendar which is controlled by the sigh
 
 **Security**
 
-As one of the most cosmopolitan and multicultural cities in the world, home to over 200 different nationalities, Abu Dhabi is an advocate for peace and stability, and proud to be a connecting hub between East and West.
-- Ranked in the 10 safest cities by Aon Hewitt, with low crime rates, a stable government, and a department of Abu Dhabi Police dedicated entirely to visitors.
+As one of the most cosmopolitan and multicultural cities in the world, home to over 200 different nationalities, Abu Dhabi is an advocate for peace and stability, and proud to be a connecting hub between East and West.  Abu Dhabi is ranked in the 10 safest cities by Aon Hewitt, with low crime rates, a stable government, and a department of Abu Dhabi Police dedicated entirely to visitors.
 
 
 **Taxation**
