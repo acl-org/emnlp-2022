@@ -38,6 +38,13 @@ Mona Diab is the Lead Responsible AI Research Scientist with Meta.  She is also 
 Affiliation: Meta Responsible AI 
 {: .speaker-bio}
 
+## Speaker: Neil Cohn
+
+Details coming soon
+
+## Speaker: Gary Marcus
+
+Details coming soon
 
 <!--## Dhruv Batra
 
