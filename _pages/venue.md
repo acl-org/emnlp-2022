@@ -252,10 +252,6 @@ There are a variety of dining selections located near ADNEC. A short walk or dri
 
 There are also a number of cafes (Costa, Starbucks) and two supermarkets (Zoom and Lulu Express) within 5 minute walking from ADNEC.
 
-### Currency & Living Cost 
-Add: Use a search engine to find a currency convertor for the current exchange rate. 
-
-
 ## Childcare
 Please check with the specific hotel where you plan to stay for childcare support.
 
@@ -398,6 +394,8 @@ The average costs at an average coffee shop or restaurant are as follows:
 - Cup of coffee: 14-20 AED/$3.8-5.5 USD
 - Sandwich lunch: 15-30 AED/$5-8.2 USD 
 - Evening meal: 30-50 AED/$8.2–13.6 USD
+
+Check out [this site](https://www.expatistan.com/cost-of-living) to compare living cost with Abu Dhabi.
 
 **Electricity**
 
