@@ -13,13 +13,17 @@ toc_icon: "cog"
 
 ## Registration Details
 
-**Early Registration**  ends Sunday, October 30, 2022 11:59pm ET
-**Late Registration** ends for In-Person: Sunday, November, 27 2022
-**Late Registration**  will remain open through the end of the conference for Vitrual Attendees    
-**Onsite Registration** will open on November 30, 2022 through December 11, 2022.
+**Early Registration**  ends Sunday, October 30, 2022 11:59pm ET     
+**Late Registration** ends for In-Person: Sunday, November, 27 2022    
+**Late Registration**  will remain open through the end of the conference for Vitrual Attendees     
+**Onsite Registration** will open on November 30, 2022 through December 11, 2022 
 
 ## Registration Form
 To register, please fill [this form](http://www.yesevents.com/emnlp).
+
+## Diversity and Inclusion Subsidies
+If you are interested in applying for D&I subsidies, please check [this blog post](https://2022.emnlp.org/blog/Call-for-Diversity-and-Inclusion-Subsidies/) out.     
+Applications will close by October 21st.
 
 ## ACL Membership
 
