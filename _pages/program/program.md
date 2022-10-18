@@ -12,11 +12,14 @@ Please refer to the [Conference blog post](/blog/) for more details information.
 
 ## Wed, Dec 7
 
-Workshops & Tutorials: 9:00 - 5:30
+Workshops: 9:00 - 6:30    
+Tutorials: 9:00 - 5:30
+
 
 ## Thu, Dec 8
 
-Workshops & Tutorials: 9:00 - 5:30
+Workshops: 9:00 - 6:30    
+Tutorials: 9:00 - 5:30
 
 Main Conference (Welcome Reception): 7:00 - 10:00 (tips: Reception is 5-minute walking distance from the conference venue)
 
