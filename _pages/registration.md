@@ -5,7 +5,7 @@ permalink: /registration/
 sidebar: false
 toc: true
 toc_sticky: true
-# toc_icon: "cog"
+toc_icon: "cog"
 ---
 
 **Registration is now open.**
