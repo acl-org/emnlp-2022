@@ -54,7 +54,7 @@ The UAE, like many other countries, uses visual inspection of documents as the p
 
 Some countries now issue non-binary gender classification (e.g. M/F/X). This is not an issue as UAE immigration follows international agreements between the UAE government and these countries' governments to respect their documents. However, many countries still do not allow updating the sex on the passport.
 
-**Unfortunately, for transgender individuals who do not have updated legal documents, our advice is to avoid the hassle and only participate virtually in the conference This is grossly unfair of course. We hope these regulations will be changed in the future**.
+**Unfortunately, for transgender individuals who do not have updated legal documents, our advice is to avoid the hassle and only participate virtually in the conference. This is grossly unfair of course. We hope these regulations will be changed in the future**.
 
 ## Online Sources of Mis/Information
 
@@ -103,4 +103,4 @@ On the LGBTQ liberation front, here are some links of interest:
   - [https://www.cnbc.com/2022/09/07/saudi-arabia-and-gulf-neighbors-threaten-netflix-over-content-that-violates-islamic-values.html](https://www.cnbc.com/2022/09/07/saudi-arabia-and-gulf-neighbors-threaten-netflix-over-content-that-violates-islamic-values.html)
   - [https://www.khaleejtimes.com/education/uae-ministry-adopts-code-of-conduct-for-education-sector](https://www.khaleejtimes.com/education/uae-ministry-adopts-code-of-conduct-for-education-sector)
 
-Conferences and other international events like EMNLP actively participate in this change - through a combination of expressed reservations (thanks to all those who tweeted their concerns!) as well as posing as role models or successful LGBTQ people to new communities (advanced thanks to all those who will join us in Abu Dhabi in person or virtually).  
+Conferences and other international events like EMNLP actively participate in this change - through a combination of expressed reservations (thanks to all those who tweeted their concerns!) as well as presenting role models of successful LGBTQ people to new communities (advanced thanks to all those who will join us in Abu Dhabi in person or virtually).  
