@@ -25,12 +25,12 @@ sidebar:
 * [T6](#t6): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial -->
 
 
-## T1 (Wednesday 7 Dec): Meaning Representations for Natural Languages: Design, Models and Applications
+## T1 (Wednesday 7 Dec, Morning & Afternoon): Meaning Representations for Natural Languages: Design, Models and Applications
 {: #t1}
 
 Jeffrey Flanigan, Ishan Jindal, Yunyao Li, Tim O'Gorman, Martha Palmer
 
-## T2 (Wednesday 7 Dec): Arabic Natural Language Processing
+## T2 (Wednesday 7 Dec, Morning): Arabic Natural Language Processing
 {: #t2}
 
 Nizar Habash

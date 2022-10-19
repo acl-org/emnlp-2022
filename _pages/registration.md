@@ -36,7 +36,7 @@ The ACL offers a discount to members from developing countries. We hope this dis
 ## Contact Details
 
 If you have any other questions about registration, please contact 
-[acl.rachford@gmail.com](mailto:acl.rachford@gmail.com).
+[EMNLPinfo@yesevents.com](mailto:EMNLPinfo@yesevents.com). 
 
 ## Virtual EMNLP 2022 Conference Cancellation Policy
 
