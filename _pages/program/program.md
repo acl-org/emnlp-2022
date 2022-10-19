@@ -11,17 +11,39 @@ sidebar:
 Please refer to the [Conference blog post](/blog/) for more details information.
 
 ## Wed, Dec 7
-
-Workshops: 9:00 - 6:30    
+Workshops: 9:00 - 6:30     
 Tutorials: 9:00 - 5:30
+
+
+* 9:00-10:30 Morning Session (S1) 
+* 10:30-11:00 Morning Coffee Break (B1)
+* 11:00-12:30 Morning Session (S2)
+* 12:30-2:00 Lunch Break (LB)
+* 2:00-3:30 Afternoon Session (S3)
+* 3:30-4:00 Afternoon Coffee Break (B2)
+* 4:00-5:30 Afternoon Session (S4)
+* 5:30-6:30 Afternoon Session (S5, optional)
+
+
 
 
 ## Thu, Dec 8
-
 Workshops: 9:00 - 6:30    
 Tutorials: 9:00 - 5:30
 
-Main Conference (Welcome Reception): 7:00 - 10:00 (tips: Reception is 5-minute walking distance from the conference venue)
+* 9:00-10:30 Morning Session (S1) 
+* 10:30-11:00 Morning Coffee Break (B1)
+* 11:00-12:30 Morning Session (S2)
+* 12:30-2:00 Lunch Break (LB)
+* 2:00-3:30 Afternoon Session (S3)
+* 3:30-4:00 Afternoon Coffee Break (B2)
+* 4:00-5:30 Afternoon Session (S4)
+* 5:30-6:30 Afternoon Session (S5, optional)
+
+
+
+Main Conference (Welcome Reception): 7:00 - 10:00       
+(tip: Reception is a 5-minute walking distance from the conference venue)
 
 ## Fri, Dec 9
 
