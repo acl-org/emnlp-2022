@@ -35,22 +35,22 @@ Jeffrey Flanigan, Ishan Jindal, Yunyao Li, Tim O'Gorman, Martha Palmer
 
 Nizar Habash
 
-## T3 (Wednesday 7 Dec): Emergent Language-Based Coordination In Deep Multi-Agent Systems  
+## T3 (Wednesday 7 Dec, Afternoon): Emergent Language-Based Coordination In Deep Multi-Agent Systems  
 {: #t3}
 
 Marco Baroni, Roberto Dessi, Angeliki Lazaridou
 
-## T4 (Thursday 8 December): Tutorial on Causal Inference for Natural Language Processing
+## T4 (Thursday 8 December, Morning): Tutorial on Causal Inference for Natural Language Processing
 {: #t4}
 
 Zhijing Jin, Amir Feder, Kun Zhang
 
-## T5 (Thursday 8 December): Modular and Parameter-Efficient Fine-Tuning for NLP Models
+## T5 (Thursday 8 December, Morning): Modular and Parameter-Efficient Fine-Tuning for NLP Models
 {: #t5}
 
 Sebastian Ruder, Jonas Pfeiffer, Ivan Vulic
 
-## T6 Thursday 8 December): Non-Autoregressive Models for Fast Sequence Generation  
+## T6 Thursday 8 December, Afternoon): Non-Autoregressive Models for Fast Sequence Generation  
 {: #t6}
 
 Yang Feng, Chenze Shao
