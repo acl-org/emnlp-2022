@@ -41,3 +41,13 @@ If you have any other questions about registration, please contact
 ## Virtual EMNLP 2022 Conference Cancellation Policy
 
 For cancellations received up to two weeks prior to the conference, registration fees will be reimbursed; ACL membership (if paid as part of the registration) is not reimbursable.
+
+## EMNLP 2022 Conference Cancellation Policy
+- Cancellations received one month or more prior to the conference will receive full refund
+ 
+- Cancellations received up to three weeks prior to the conference will receive the ACL membership (if paid as part of the registration) and reimbursement of all amounts paid above the first $200  
+ 
+- Cancellations received within three weeks prior to the conference and all no-shows will not receive reimbursements but will receive the current full year ACL membership (if paid as part of the registration).
+ 
+- Cancellations due to governmental travel restrictions, failure to obtain a visa or serious illness that prevents travel to attend the Conference (including COVID-19 problems) will receive a full refund regardless of when notification is received by the ACL Office.
+
