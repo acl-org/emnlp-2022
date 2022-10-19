@@ -31,8 +31,9 @@ Applications will close by October 21st.
 
 
 ## Registration Pricing
-The amounts  below do not include the ACL membership fee. All amounts in USD.
-| |In-Person|	Virtual|
+The amounts  below do not include the ACL membership fee. All amounts in USD.<br>
+
+| Type |In-Person|	Virtual| 
 |---|---|---|
 |Regular Early |	850.00	| 350.00|
 |Regular Late  |	900.00	| 450.00|
