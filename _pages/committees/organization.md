@@ -246,6 +246,14 @@ sidebar:
    email = "av308@cam.ac.uk"
 %}
 
+{% include committee-member.html
+   name="Meriem Beloucif"
+   picture="/assets/images/committee/sac/meriem_beloucif.png"
+   site=""
+   institution="Uppsala University (Sweden)"
+   email="meriem.beloucif@lingfil.uu.se"
+%}
+
 <h2>Reviewer Mentoring Chairs</h2>
 {% include committee-member.html
    name="David Mimno"
