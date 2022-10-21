@@ -170,7 +170,10 @@ Andaz Capital Gate Abu Dhabi, only 15 minutes away from the airport and most key
  
 The 188 stylish guest rooms offer optimum luxury coupled with cutting-edge technology and include digital phone lines, broadband modem points, international direct dialing, and voice mail messaging. The entertainment system offers satellite and interactive television whilst spacious work areas feature high-speed communication lines and Wi-Fi.  
  
-Rooms are available from 06 December 2022 – 12 December 2022; standard room, single rate AED 850, AED 915. Based on availability. Link to book coming soon. [**Book your group rate for the 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)
+Rooms are available from 06 December 2022 – 12 December 2022; standard room, single rate AED 850, AED 915. Based on availability.  
+
+[**Book your group rate for the 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)
+{: .notice .notice--info .text-center}
  
 ### Aloft Abu Dhabi     
 Inclusive rates starting at AED 438    
@@ -182,11 +185,13 @@ Website: [Abu Dhabi 4-Star Hotel in UAE | Aloft Abu Dhabi (marriott.com)](https:
  
 Celebrate style at Aloft Abu Dhabi featuring loft-inspired design in a thriving metropolis. Set in and connected to the ultra-modern Abu Dhabi National Exhibition Centre, we're steps from the diplomatic district and near the airport and city sights. Meet and mingle with friends at our WXYZ Bar, grab a snack from Refuel by Aloft, our pantry open 24 hours a day, or play in our Glow Restaurant & Lounge. Plus, you can always stay connected with complimentary hotel-wide Internet access, and our plug-and-play connectivity station charges all your electronics and links to the 42” Smart TV to maximize work and play. Breeze into one of our Aloft rooms featuring our ultra-comfortable signature bed, an over-sized shower head and more at Aloft Abu Dhabi. 
  
-Rooms are available from 06 December 2022 – 12 December 2022; standard room, single rate AED 438, AED 488. Breakfast is included in rate. Based on availability. Rooms may be booked directly by clicking the link: [**Book your group rate for The 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.marriott.com/events/start.mi?id=1662116653508&key=GRP)    
-Deadline to reserve rooms: October 31, 2022    
+Rooms are available from 06 December 2022 – 12 December 2022; standard room, single rate AED 438, AED 488. Breakfast is included in rate. Based on availability. Rooms may be booked directly by clicking the link below. Deadline to reserve rooms: October 31, 2022.
+
+
+[**Book your group rate for The 2022 Conference on Empirical Methods in Natural Language Processing**]( https://www.marriott.com/event-reservations/reservation-link.mi?id=1662116653508&key=GRP&app=resvlink)
+{: .notice .notice--info .text-center}    
 
 Alternative accommodation options, for example hostels, B&Bs and short-term lodging, can be found via the usual search engines.    
-
 
 Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands
 from budget-conscious to 5-star luxury.
