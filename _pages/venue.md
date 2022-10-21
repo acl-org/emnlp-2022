@@ -161,7 +161,7 @@ Address: P.O. Box 95165
 &emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates     
 Tel: +971 2 596 1234     
 Email: [abudhabi.capitalgate@hyatt.com](mailto:abudhabi.capitalgate@hyatt.com)     
-Website: [Boutique 5 star hotel in Abu Dhabi | Andaz Abu Dhabi (hyatt.com)](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc)     
+Website: [Boutique 5 star hotel in Abu Dhabi | Andaz Abu Dhabi (hyatt.com)](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)         
  
 Located in the iconic Capital Gate building withing the Abu Dhabi National Exhibition Center (ADNEC)    
 [Map, Parking & Transportation](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc/maps-parking-transportation) 
@@ -183,7 +183,7 @@ Address: Abu Dhabi National Exhibition, Al
 &emsp;&emsp;&emsp;Khaleej Al Arabi Street, P.O. Box 94943     
 &emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates     
 Tel: +971 2-654 5000     
-Website: [Abu Dhabi 4-Star Hotel in UAE | Aloft Abu Dhabi (marriott.com)](https://www.marriott.com/en-us/hotels/auhnl-aloft-abu-dhabi/overview/)     
+Website: [Abu Dhabi 4-Star Hotel in UAE | Aloft Abu Dhabi (marriott.com)](https://www.marriott.com/event-reservations/reservation-link.mi?id=1662116653508&key=GRP&app=resvlink)            
  
 Celebrate style at Aloft Abu Dhabi featuring loft-inspired design in a thriving metropolis. Set in and connected to the ultra-modern Abu Dhabi National Exhibition Centre, we're steps from the diplomatic district and near the airport and city sights. Meet and mingle with friends at our WXYZ Bar, grab a snack from Refuel by Aloft, our pantry open 24 hours a day, or play in our Glow Restaurant & Lounge. Plus, you can always stay connected with complimentary hotel-wide Internet access, and our plug-and-play connectivity station charges all your electronics and links to the 42” Smart TV to maximize work and play. Breeze into one of our Aloft rooms featuring our ultra-comfortable signature bed, an over-sized shower head and more at Aloft Abu Dhabi. 
  
@@ -191,7 +191,7 @@ Celebrate style at Aloft Abu Dhabi featuring loft-inspired design in a thriving 
 
 Rooms may be booked directly by clicking the link below. Deadline to reserve rooms: October 31, 2022.
 
-[**Book your group rate for The 2022 Conference on Empirical Methods in Natural Language Processing**]( https://www.marriott.com/event-reservations/reservation-link.mi?id=1662116653508&key=GRP&app=resvlink)
+[**Book your group rate for The 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1662116653508&key=GRP&app=resvlink)
 {: .notice .notice--info .text-center}    
 
 Alternative accommodation options, for example hostels, B&Bs and short-term lodging, can be found via the usual search engines.    
