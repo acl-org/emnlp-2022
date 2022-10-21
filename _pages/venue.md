@@ -155,7 +155,7 @@ The COVID-19 global situation is continuously changing. For the latest informati
 
 Two hotels have been selected near the conference center that will provide special group rates for attendees.
 
-### Andza Capital Gate, Abu Dhabi
+### Andaz Capital Gate, Abu Dhabi
 Inclusive Rate starting at AED 850    
 Address: P.O. Box 95165      
 &emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates     
