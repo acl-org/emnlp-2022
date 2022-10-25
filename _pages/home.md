@@ -9,6 +9,9 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ---
 
 ## News
+**The early registration deadline has been extended to November 10.**
+{: .text-center .notice--info}
+
 [**List of accepted work**](/downloads/Accepted-Papers-20221025.xls) is now available.
 {: .text-center .notice--info}
 
