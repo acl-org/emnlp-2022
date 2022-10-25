@@ -18,7 +18,7 @@ We have made every effort to keep registration fees affordable.  Please note tha
 To register, please fill [this form](http://www.yesevents.com/emnlp).
 
 
-❗❗**Early registration** ends 30 October 2022, 11:59 PM (EDT).
+❗❗**Early registration** ends 10 November 2022, 11:59 PM (EDT).
 
 
 ❗❗**Diversity and Inclusion Subsidies** 
@@ -70,7 +70,7 @@ The amounts  below do not include the ACL membership fee. All amounts in USD.<br
 * Access to all recorded sessions on demand for at least one month following the Meeting
 
 
-**Early registration** ends 30 October 2022, 11:59 PM (EDT).
+**Early registration** ends 10 November 2022, 11:59 PM (EDT).
 
 **Late registration** starts 31 October 2022 and ends 27 November 2022, 11:59 PM (EDT).
 
