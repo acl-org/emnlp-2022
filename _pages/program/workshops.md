@@ -91,7 +91,7 @@ Prasanna Parthasarathi, Koustuv Sinha, Kalesha Bullard,Chinnadhurai Sankar, Adin
 Nikolaos Aletras, Ilias Chalkidis, Leslie Barrett, Cătălina Goanță and Daniel Preoțiuc-Pietro
 
 ### W22: [SSLL: Sharing Stories and Lessons Learned](https://ssll-emnlp.github.io/)
-Diyi Yang, Pradeep Dasigi, Tongshuang Wu, Tuhin Chakrabarty and Mike Zheng Shou
+Diyi Yang, Pradeep Dasigi, Sherry Tongshuang Wu, Tuhin Chakrabarty, Yuval Pinter and Mike Zheng Shou
 
 ### W23: [TSAR: Workshop on Text Simplification, Accessibility, and Readability](https://www.taln.upf.edu/pages/tsar2022-ws/)
 Sanja Štajner, Horacio Saggion, Wei Xu, Marcos Zampieri, Matthew Shardlow, Daniel Ferrés, Kai North and Kim Cheng Sheang
