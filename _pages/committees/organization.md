@@ -29,7 +29,7 @@ sidebar:
    name="Zornitsa Kozareva"
    picture="/assets/images/committee/Zornitsa_Kozareva.jpg"
    site=""
-   institution=" Meta AI - FAIR"
+   institution="SliceX AI"
    email = "zornitsa@kozareva.com"
 %}
 
