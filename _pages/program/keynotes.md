@@ -40,7 +40,17 @@ Affiliation: Meta Responsible AI
 
 ## Speaker: Neil Cohn
 
-Details coming soon
+![Neil Cohn](/assets/images/keynotes/keynote_Speaker_Neil_Cohn.jpg){: .align-center}
+
+### The multimodal language faculty and the visual languages of comics
+
+Contrary to the notions of language as an amodal system, natural human communication is multimodal and combines speech, gestures, writing, and pictures. To account for this, recent work has proposed that our vocal, bodily, and graphic modalities persist in parallel in a multimodal language faculty, and both unimodal and multimodal expressions arise out of emergent states of a shared architecture. Such a model carries different expectations for the ways in which modalities may be similar or different from each other, and how they may interact. I will highlight these properties specifically for our graphic modality, which I argue can manifest in full visual languages when displaying both a systematic lexicon and complex grammar. I will use analysis of a corpus of several hundred annotated comics to show distinctive patterns that suggest they are drawn in different visual languages. Yet, I will also show that consistent “universal” linguistic principles persist across this structural diversity. Finally, I will argue that a multimodal language faculty requires us to change our conception of linguistic relativity, and I will show how subtle structures of spoken languages permeate across to visual languages. Altogether, this work argues for a multimodal basis of linguistic structure, and heralds a reconsideration of what constitutes the language system.
+
+Neil Cohn is an American cognitive scientist best known for his research on the overlap in structure and cognition between language and graphic communication like comics and emoji. He is the author of 80+ academic papers, 4 academic books, and 2 graphic novels. He received his PhD in cognitive psychology at Tufts University and is currently an associate professor at the Department of Cognition and Communication at Tilburg University in The Netherlands. His work can be found online at <www.visuallanguagelab.com>.
+{: .speaker-bio}
+
+Affiliation: Tilburg University, Department of Communication and Cognition
+{: .speaker-bio}
 
 ## Speaker: Gary Marcus
 
