@@ -141,7 +141,7 @@ sidebar:
    name="Steffen Eger"
    picture="/assets/images/committee/Steffen_Eger.jpg"
    site=""
-   institution="Stand-in Professor, Bielefeld University"
+   institution="Bielefeld University"
    email = "steffen.eger@uni-bielefeld.de"
 %}
 
