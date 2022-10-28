@@ -137,7 +137,7 @@ We recommend **[Capital Experience](http://www.capitalexperience.ae)**, a sister
 ***Capital Experience Contact***    
 **Subhendu Nayak**   
 **Assistant – Operations (Transfer)**   
-**+971 (0) 2-406-3514**   
+**+971-2-406-3514**   
 **subhendu.nayak@capitalexperience.ae**  
 **[capitalexperience.ae](http://www.capitalexperience.ae)**
 
