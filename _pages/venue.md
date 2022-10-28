@@ -226,12 +226,25 @@ More details coming soon!
 ### Welcome Reception 
 A Welcome Reception will be held on Thursday December 8, 2022from 7:00pm to 10:00pm. Join us at the Aloft Abu Dhabi Hotel where you can meet and make new friends and catch up with your colleagues over a drink (alcoholic & nonalcoholic drink ticket to be provided) and light canapes. 
  
+Admission to the welcome reception is included in the main conference in-person registration. Additional tickets can be bought on site.
+     
+Additional Welcome Reception Ticket - $50.    
+Welcome Reception - Under 10 - $25.     
+
 ### Social Event 
 The EMNLP Social Event will be held on Saturday December 10, 2022 from 7:00pm – 10:00pm at the [Ritz-Carlton Abu Dhabi, Grand Canal Hotel](https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi?scid=6086e1f4-af86-4268-a5e9-ecef4e9075cf&ppc=ppc&pId=ustbppc&nst=paid&gclid=872a19c941e3106b22547ae374f72f01&gclsrc=3p.ds&msclkid=872a19c941e3106b22547ae374f72f01). With its captivating sunsets and extraordinary view of the Sheikh Zayed Grand Mosque, you will be sure to enjoy an evening out at our Social Event with luxurious foods and libations (alcoholic and nonalcoholic drink ticket provided), along with Abu Dhabi’s local entertainment compliments of the Department of Tourism, and a DJ for some evening dancing.  
 
 Transportation to the event:     
 Charter buses will be available from ADNEC to the Ritz Carlton beginning at 6:30pm to 10:30pm. Departures from the Ritz will stop by Andaz, Aloft and Adnec. 
- 
+
+Admission to the social event is included in the main conference in-person registration. Additional tickets can be bought on site.
+
+Social Event Ticket Additional Guest - $125.       
+Social Event Ticket - Under 10 - $65.      
+Social Event Ticket - Exhibitor - $125.      
+
+
+
 ## Dining Options     
 There are a variety of dining selections located near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you.    
 
