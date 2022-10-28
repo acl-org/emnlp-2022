@@ -48,10 +48,17 @@ The amounts  below do not include the ACL membership fee. All amounts in USD.<br
 |Volunteers	|0.00	|0.00|
 |D&I Awardees	|0.00	|0.00|
 |WiNLP Awardees	|0.00	|0.00|
-| Invited Speakers/Tutorial Presenters | 0.00 |0.00| 
+|Invited Speakers/Tutorial Presenters | 0.00 |0.00| 
 |Guests/Sponsors/Exhibitors/Staff	|0.00	|0.00|
 
 
+Additional tickets can be bought on site for the Welcome Reception and Social Event.
+     
+Additional Welcome Reception Ticket - $50.    
+Welcome Reception - Under 10 - $25.     
+Social Event Ticket Additional Guest - $125.       
+Social Event Ticket - Under 10 - $65.      
+Social Event Ticket - Exhibitor - $125.  
 
 ## Registration Details
 
