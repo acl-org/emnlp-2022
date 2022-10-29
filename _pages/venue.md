@@ -161,7 +161,7 @@ Address: P.O. Box 95165
 &emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates     
 Tel: +971 2 596 1234     
 Email: [abudhabi.capitalgate@hyatt.com](mailto:abudhabi.capitalgate@hyatt.com)     
-Website: [Boutique 5 star hotel in Abu Dhabi | Andaz Abu Dhabi (hyatt.com)](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)         
+Website: [Boutique 5 star hotel in Abu Dhabi | Andaz Abu Dhabi (hyatt.com)](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN2)         
  
 Located in the iconic Capital Gate building withing the Abu Dhabi National Exhibition Center (ADNEC)    
 [Map, Parking & Transportation](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc/maps-parking-transportation) 
@@ -174,10 +174,17 @@ The 188 stylish guest rooms offer optimum luxury coupled with cutting-edge techn
 
 Rooms may be booked directly by clicking the link below. Deadline to reserve rooms: October 31, 2022.
 
-[**Book your group rate for the 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN1)
+[**Book your group rate for the 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN2)
 {: .notice .notice--info .text-center}
  
-### Aloft Abu Dhabi     
+
+
+
+### Aloft Abu Dhabi   
+
+[**UPDATE: ALoft is sold out except for Dec 7, Dec 10, Dec 11 - Events team is working on getting more rooms - Consider booking at Andaz**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1662116653508&key=GRP&app=resvlink)
+{: .notice .notice--info .text-center}   
+
 Inclusive rates starting at AED 438    
 Address: Abu Dhabi National Exhibition, Al     
 &emsp;&emsp;&emsp;Khaleej Al Arabi Street, P.O. Box 94943     
