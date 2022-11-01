@@ -9,7 +9,7 @@ toc_sticky: false
 
 ## STUDENT VOLUNTEER PROGRAM
 
-We seek a limited number of student volunteers for the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), for both online and in-person versions. In exchange for one full day equivalent of work, students receive free registration to the main conference. Workshops and tutorials are not included and must be paid for by the student. The work will be divided, probably into two half-day shifts, and the shifts will be scheduled to maximize volunteer access to the conference events. Tasks will include assisting at the registration desk, stuffing delegate packs, **helping to maintain social media** (mainly Twitter) and providing assistance for conference events including tutorials, the main conference, and workshops, for either online or in-person versions.
+We seek a limited number of student volunteers for the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), for both online and in-person versions. In exchange for one full day equivalent of work, students receive free registration to the main conference, workshops and tutorials, and the social events. The work will be divided, probably into two half-day shifts, and the shifts will be scheduled to maximize volunteer access to the conference events. Tasks will include assisting at the registration desk, stuffing delegate packs, **helping to maintain social media** (mainly Twitter) and providing assistance for conference events including tutorials, the main conference, and workshops, for either online or in-person versions.
 
 ## STUDENT SCHOLARSHIP PROGRAM
 
