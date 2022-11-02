@@ -125,6 +125,10 @@ di_champion:
     image_path: /assets/images/logos/google-logo.png
     alt: Google
     title: Google
+  - url: https://snap.com/
+    image_path: /assets/images/logos/snap-logo.png
+    alt: Snap Inc.
+    title: Snap Inc.
 ---
 
 EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
