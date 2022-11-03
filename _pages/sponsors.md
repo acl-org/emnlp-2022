@@ -129,6 +129,10 @@ di_champion:
     image_path: /assets/images/logos/snap-logo.png
     alt: Snap Inc.
     title: Snap Inc.
+  - url: https://www.grammarly.com/
+    image_path: /assets/images/logos/grammarly_logo.jpg
+    alt: Grammarly
+    title: Grammarly
 ---
 
 EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
