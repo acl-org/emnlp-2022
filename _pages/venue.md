@@ -30,6 +30,13 @@ For a virtual tour of ADNEC, click [here](https://mc-d9653e4f-fac4-4f15-86b2-409
 
 ![adnec-1]({{ site.baseurl }}/assets/images/abu_dhabi/adnec.jpg)
 
+## Conference Venue Map
+### Main Conference
+![adnec-map-1]({{ site.baseurl }}/assets/images/abu_dhabi/EMNLP-2022-Map-Improved-Main.pdf)
+
+### Tuorials and Worhsops
+![adnec-map-2]({{ site.baseurl }}/assets/images/abu_dhabi/EMNLP-2022-Map-Improved-Workshops.pdf)
+
 <!-- **Floor Plan**
 
 ![adnec-4]({{ site.baseurl }}/assets/images/abu_dhabi/adnec_floor.jpg) -->
