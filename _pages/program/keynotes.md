@@ -54,7 +54,15 @@ Affiliation: Tilburg University, Department of Communication and Cognition
 
 ## Speaker: Gary Marcus
 
-Details coming soon
+### Towards a Foundation for AGI﻿
+
+Large pretrained language models like GPT-3 and PaLM  have generated enormous enthusiasm, and are capable of producing remarkably fluent language. But they have also been criticized on many grounds, and described as "stochastic parrots." Are they adequate as a basis for artificial general intelligence [AGI], and if not, what would a better foundation for general intelligence look like?
+
+Gary Marcus is a leading voice in artificial intelligence. He is a scientist, best-selling author, and serial entrepreneur (Founder of Robust.AI and Geometric.AI, acquired by Uber). He is well-known for his challenges to contemporary AI, anticipating many of the current problems decades in advance, and for his research in human language development and cognitive neuroscience. An Emeritus Professor of Psychology and Neural Science at NYU, he is the author of five books, including, The Algebraic Mind, Kluge, The Birth of the Mind, and the New York Times Bestseller Guitar Zero. He has often contributed to The New Yorker, Wired, and The New York Times. His most recent book, Rebooting AI, with Ernest Davis, is one of Forbes’s 7 Must Read Books in AI. 
+{: .speaker-bio}
+
+Affiliation: NYU (Emeritus) NYU (Emeritus) 
+{: .speaker-bio}
 
 <!--## Dhruv Batra
 
