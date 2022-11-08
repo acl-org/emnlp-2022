@@ -265,6 +265,13 @@ There are a variety of dining selections located near ADNEC. A short walk or dri
 **[Restaurants & Cafes in Abu Dhabi &#124; ADNEC - Abu Dhabi, UAE](https://www.adnec.ae/en/visit/restaurants-listing)**
 
 There are also a number of cafes (Costa, Starbucks) and two supermarkets (Zoom and Lulu Express) within 5 minute walking from ADNEC.
+ADNEC is also connected to 2 hotels and 5 minutes walking distance from 3 more hotels.
+Each hotel has various restaurants:
+- Andaz Capital Gate - the list of restaurants can be found [here](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc/dining).
+- Aloft Abu Dhabi - the list of restaurants can be found [here](https://www.marriott.com/hotels/hotel-information/restaurant/auhnl-aloft-abu-dhabi/).
+- Pearl Rotana Capital Centre - the list of restaurants can be found [here](https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/pearlrotana/dining).
+- Capital Centre Arjaan By Rotana - the list of restaurants can be found [here](https://www.rotana.com/arjaanhotelapartments/unitedarabemirates/abudhabi/capitalcentrearjaanbyrotana/dining).
+- Centro Capital Centre by Rotana - the list of restaurants can be found [here](https://www.rotana.com/centrohotels/unitedarabemirates/abudhabi/centrocapitalcentre/dining).
 
 ## Childcare
 Please check with the specific hotel where you plan to stay for childcare support.
