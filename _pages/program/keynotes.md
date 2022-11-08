@@ -54,6 +54,8 @@ Affiliation: Tilburg University, Department of Communication and Cognition
 
 ## Speaker: Gary Marcus
 
+![Gary Marcus](/assets/images/keynotes/keynote_Speaker_Gary_Marcus.png){: .align-center}
+
 ### Towards a Foundation for AGI﻿
 
 Large pretrained language models like GPT-3 and PaLM  have generated enormous enthusiasm, and are capable of producing remarkably fluent language. But they have also been criticized on many grounds, and described as "stochastic parrots." Are they adequate as a basis for artificial general intelligence [AGI], and if not, what would a better foundation for general intelligence look like?
