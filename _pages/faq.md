@@ -107,6 +107,11 @@ Q: My paper is accepted to Findings of EMNLP 2022, and I wonder if it is eligibl
 A: Findings are not accommodated for presentation at the main conference. For more information, you can check https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp.
 {: .answer}
 
+Q: I have a paper being accepted to Findings of EMNLP. Do I need to register?
+{: .question}
+A: You do not need to register to have your video being uploaded. However, you do need to register in order to attend the conference.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
