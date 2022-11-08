@@ -12,7 +12,7 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 **The early registration deadline has been extended to November 10.**
 {: .text-center .notice--info}
 
-[**List of accepted work**](/downloads/Accepted-Papers-20221027.xls) is now available.
+[**List of accepted work**](/downloads/Accepted-Papers-20221108.xls) is now available (update CL and TACL, click for detail).
 {: .text-center .notice--info}
 
 <div class="text-center notice--danger">
