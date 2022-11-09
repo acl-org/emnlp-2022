@@ -16,10 +16,6 @@ The following speakers have graciously agreed to give keynotes at EMNLP 2022.
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## Speaker: Mona Diab
-
-![Mona Diab](/assets/images/keynotes/keynote_Speaker_Mona_Diab.jpg){: .align-center}
-
 <!-- ### Humans Learn From Task Descriptions and So Should Our Models
 *Main Conference Keynote<br>Monday, June 7, 08:00--09:00 PDT*
 
@@ -31,6 +27,14 @@ We introduce Pattern-Exploiting Training (PET), an approach to learning that mim
 of a pretrained language model that "understands" the task description, especially after finetuning, resulting in excellent performance compared to other few-shot methods. In particular, a model trained with PET outperforms GPT-3 even though it has 99.9% fewer parameters.
 
 In the last part of the talk, I will show how bias in NLP models can be addressed using task descriptions. Instructing a model to reveal and reduce its biases is remarkably effective and may contribute in the future to a fairer and more inclusive NLP. -->
+
+## Speaker: Mona Diab
+
+![Mona Diab](/assets/images/keynotes/keynote_Speaker_Mona_Diab.jpg){: .align-center}
+
+### Towards a Responsible NLP: Walking the walk
+
+In a world of racing to get the best systems on leaderboards, winning best shared tasks, building the largest LM, are we losing our soul as a scientific enterprise? Do we need to re-orient and re-pivot NLP? If so, what is needed to make this happen? Can we chart together a program where we ensure that science is the pivotal ingredient in CL/NLP? Could Responsible NLP be an avenue  that could lead us back towards that goal? In this talk, in the spirit of EMpirical NLP, I will explore some "practical" ideas around framing a Responsible NLP vision hoping to achieve a higher scientific standard for our field, addressing issues from the "how" we conduct our research and venturing into the "what" we work on and produce using tenets from responsible mindset perspective. I will pose more questions than answers. This is a call to action, an invitation to start a real global community conversation, hopefully engaging all stakeholders: academia, industry, government and civic society. 
 
 Mona Diab is the Lead Responsible AI Research Scientist with Meta.  She is also a full Professor of Computer Science at the George Washington University (on leave) where she directs the CARE4Lang NLP Lab. Before joining Meta, she led the  Lex Conversational AI project within Amazon AWS AI. Her current focus is on Responsible AI and how to operationalize it for NLP technologies. Her interests span building robust technologies for low resource scenarios with a special interest in Arabic technologies, (mis) information propagation, computational socio-pragmatics, computational psycholinguistics, NLG evaluation metrics, Language modeling and resource creation. Mona has served the community in several capacities: Elected President of SIGLEX and SIGSemitic, and she currently serves as the elected VP for ACL SIGDAT, the board supporting EMNLP conferences. She has delivered tutorials and organized numerous workshops and panels around Arabic processing, Responsible NLP, Code Switching, etc. She is a cofounder of CADIM (Consortium on Arabic Dialect Modeling, previously known as Columbia University Arabic Dialects Modeling Group), in 2005, which served as a world renowned reference point on Arabic Language Technologies. Moreover she helped establish two research trends in NLP, namely computational approaches to Code Switching and Semantic Textual Similarity. She is also a founding member of the *SEM conference, one of the top tier conferences in NLP. Mona has published more than 250 peer reviewed articles.
 {: .speaker-bio}
