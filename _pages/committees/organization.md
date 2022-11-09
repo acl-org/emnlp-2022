@@ -348,13 +348,13 @@ sidebar:
    email = "hbouamor@cmu.edu"
 %}
 
-{% include committee-member.html
+<!-- {% include committee-member.html
    name="Kareem Darwish"
    picture="/assets/images/committee/Kareem_Darwish.jpg"
    site=""
    institution="aiXplain"
    email = "kareem.darwish@aixplain.com"
-%}
+%} -->
 
 {% include committee-member.html
    name="Go Inoue"
