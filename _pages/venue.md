@@ -467,7 +467,17 @@ Tipping practices are similar to most other parts of the world. Most restaurants
 
 The tap water in Abu Dhabi is safe to drink. But locally bottled water is generally served in hotels and restaurants.
 
+**Emergency**
 
+The emergency phone number for Abu Dhabi Police is 999. Whether you need police assistance, an ambulance, or for any other emergency, 999 is the number to call and calls are free. When calling 999, please remember to state your name, the nature of the accident, address of the emergency and how serious the situation is. Please find a detailed list of other emergency numbers at the bottom of this page.
+
+If you’re involved in a traffic accident, it’s important to contact the police immediately. In case of a minor incident, move your car to the roadside, as there are fines for obstructing traffic. Remember, you cannot file an insurance claim without a police report.
+
+For other enquiries, Abu Dhabi Police operates a dedicated Tourism Police section which will advise and guide you on a range of matters. You can contact them on +971 2 800 2626 and +971 2 512 7777, or visit Emergency Help for Tourists.
+
+In a medical emergency, Abu Dhabi's Sheikh Khalifa Medical City (+971 2 819 0000) and Mediclinic Al Noor Hospital (800 2000) both have Accident and Emergency units. If you’re injured in a traffic accident, you will automatically be taken to Sheikh Khalifa Medical City, as it has the best Accident & Emergency treatment facilities.
+
+The [Abu Dhabi Government portal](https://www.tamm.abudhabi/en) provides an updated list of 24-hour pharmacies and medical services, including hospitals, clinics, and medical centres. If you don't have internet access you can call the toll-free number 800 555 (+971 2 666 4442).
 
 <!-- **Bargaining**
 
