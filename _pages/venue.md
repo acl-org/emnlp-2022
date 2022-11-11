@@ -111,7 +111,7 @@ From Abu Dhabi Corniche, ADNEC is located just 15 minutes away.
 - **Buses** are also available around Abu Dhabi and ADNEC is serviced by bus number 040, seven days a week. For more information on bus routes, services and fares please see the [Department of Transport website](https://itc.gov.ae/en/info/Abu_Dhabi_Region_Bus_Services).
 
 
-<!-- ## Visas
+## Visas
 Visa requirements vary by country of citizenship.
 Passport holders from over 70 countries are granted free visa on arrival, and citizens of all other countries required to follow normal visa procedures prior to their trip.
 
@@ -146,7 +146,7 @@ We recommend **[Capital Experience](http://www.capitalexperience.ae)**, a sister
 **Assistant – Operations (Transfer)**   
 **+971-2-406-3514**   
 **subhendu.nayak@capitalexperience.ae**  
-**[capitalexperience.ae](http://www.capitalexperience.ae)** -->
+**[capitalexperience.ae](http://www.capitalexperience.ae)**
 
 
 ## COVID-19 Regulations 
