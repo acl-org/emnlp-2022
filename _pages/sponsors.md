@@ -57,6 +57,10 @@ platinum:
     image_path: /assets/images/logos/bytedance-logo.png
     alt: ByteDance
     title: ByteDance  
+  - url: https://www.scai.sa/
+    image_path: /assets/images/logos/scai-logo.png
+    alt: SCAI
+    title: SCAI  
 gold:
   - url: https://careers.servicenow.com/careers/jobs?keywords=ATG&sortBy=relevance&page=1
     image_path: /assets/images/logos/servicenow-logo.jpeg
@@ -112,6 +116,10 @@ bronze:
     image_path: /assets/images/logos/cair-logo.jpg
     alt: CAIR
     title: CAIR   
+  - url: https://www.grammarly.com/
+    image_path: /assets/images/logos/grammarly-logo.png
+    alt: Grammarly
+    title: Grammarly
 di_champion:
   - url: https://www.microsoft.com/en-us/research/
     image_path: /assets/images/logos/microsoft-logo.jpg
@@ -129,10 +137,6 @@ di_champion:
     image_path: /assets/images/logos/snap-logo.png
     alt: Snap Inc.
     title: Snap Inc.
-  - url: https://www.grammarly.com/
-    image_path: /assets/images/logos/grammarly_logo.jpg
-    alt: Grammarly
-    title: Grammarly
 ---
 
 EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
