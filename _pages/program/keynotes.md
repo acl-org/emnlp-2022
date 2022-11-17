@@ -70,6 +70,22 @@ Gary Marcus is a leading voice in artificial intelligence. He is a scientist, b
 Affiliation: NYU (Emeritus) NYU (Emeritus) 
 {: .speaker-bio}
 
+## Speaker: Nazneen Rajani
+
+![Nazneen Rajani](/assets/images/keynotes/Nazneen_Rajani.jpg){: .align-center}
+
+### Takeaways from a systematic study of 75K models on Hugging Face
+
+Abstract: Language models trained using transformers dominate the NLP model landscape, making Hugging Face (HF) the defacto hub for sharing, benchmarking, and evaluating NLP models.  The HF hub provides a rich resource for understanding how language models evolved, opening up research questions such as ‘Is there a correlation between model documentation and its usage?’, ’How have the models evolved?’, ‘What do users document about their models?’. In the first part of my talk, I’ll give a macro-level view of how the NLP model landscape has evolved based on our systematic study of 75K HF models.
+ 
+In the second part, I’ll discuss advances, challenges and opportunities in evaluating and documenting NLP models developed in an industry setting. Based on the results, do we see a paradigm shift from model-centric to data-centric evaluation and documentation?
+
+Nazneen is a Research Lead at HuggingFace, a startup with a mission to democratize ML, leading data-centric ML research which involves systematically analyzing, curating, and automatically annotating data. Before HF, she worked at Salesforce Research with Richard Socher and led a team of researchers focused on building robust natural language generation systems based on LLMs. She completed her Ph.D. in CS at UT-Austin with Prof. Ray Mooney.
+{: .speaker-bio}
+
+Nazneen has over 30 papers accepted at ACL, EMNLP, NAACL, NeurIPs, and ICLR and has her research covered by Quanta magazine, VentureBeat, SiliconAngle, ZDNet, and Datanami. She is also teaching a course on interpreting ML models with Corise -- http://corise.com/go/nazneen. More details about her work can be found here https://www.nazneenrajani.com/
+{: .speaker-bio}
+
 <!--## Dhruv Batra
 
 ![Dhruv Batra](/assets/images/keynotes/Dhruv_Batra.jpg){: .align-center}
@@ -133,4 +149,6 @@ Semantic Scholar (S2) is a 40 person effort at the Allen Institute for Artificia
 
 Daniel S. Weld is Thomas J. Cable / WRF Professor in the Paul G. Allen School of Computer Science & Engineering, manages the Semantic Scholar research group at the Allen Institute of Artificial Intelligence, and is Venture Partner at the Madrona Venture Group.  After formative education at Phillips Academy, he received bachelor's degrees in both Computer Science and Biochemistry at Yale University in 1982. He landed a Ph.D. from the MIT Artificial Intelligence Lab in 1988, received a Presidential Young Investigator's award in 1989, an Office of Naval Research Young Investigator's award in 1990, was named AAAI Fellow in 1999 and deemed ACM Fellow in 2005. Dan was a founding editor for the Journal of AI Research, was area editor for the Journal of the ACM.  Dan has co-founded three companies, Netbot (sold to Excite), Adrelevance (sold to Media Metrix), and Nimble technology (sold to Actuate).
 {: .speaker-bio}-->
+
+
 
