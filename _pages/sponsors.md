@@ -61,6 +61,10 @@ platinum:
     image_path: /assets/images/logos/scai-logo.png
     alt: SCAI
     title: SCAI  
+  - url: https://www.tetrasoftfederal.us/
+    image_path: /assets/images/logos/Tetrasoft-logo.png
+    alt: Tetrasoft
+    title: Tetrasoft 
 gold:
   - url: https://careers.servicenow.com/careers/jobs?keywords=ATG&sortBy=relevance&page=1
     image_path: /assets/images/logos/servicenow-logo.jpeg
