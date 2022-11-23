@@ -233,7 +233,15 @@ Low-cost [airbnb](https://www.airbnb.ae/) affordable accommodations are also ava
 From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family. -->
 
 ### Premier Inn – Student Block
-More details coming soon!
+The Premier Inn will be hosting our Student block as well as our D&I and WiNLP Awardees. With a prime location opposite Abu Dhabi National Exhibition Centre (ADNEC). 
+
+Address: National Exhibition Centre     
+&emsp;&emsp;&emsp;Al Muntada St, Capital Centre Abu Dhabi     
+&emsp;&emsp;&emsp;Abu Dhabi, United Arab Emirates.
+
+Phone: +971 600 500503
+
+Website: [Premier Inn](https://mena.premierinn.com/en/hotel/abu-dhabi-capital-centre)
 
 ## Welcome Reception and Social Event
 
