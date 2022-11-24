@@ -9,6 +9,7 @@ sidebar:
 ---
 
 Please refer to the [Conference blog post](/blog/) for more details information.
+Time Zone: GMT+4
 
 ## Wed, Dec 7
 Workshops: 9:00 - 6:30     
