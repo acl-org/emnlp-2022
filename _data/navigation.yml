@@ -62,8 +62,8 @@ program:
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
-#      - title: "Accepted Papers"
-#        url: /program/accepted/
+      - title: "Careers in NLP"
+        url: /program/careers_in_nlp/
 #      - title: "Social Programs"
 #        url: /program/social/
 #       - title: "Careers in NLP Panel"
