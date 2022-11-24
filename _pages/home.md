@@ -9,6 +9,9 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ---
 
 ## News
+[**Industry session posters**](/downloads/Submission_Information.xlsx) is now available.
+{: .text-center .notice--info}
+
 [**COVID-19 content for handbook/website**](https://docs.google.com/document/d/1eGICtttSKN6u50CiN3e8J37xRCTLWbL0zTkGg0he3H8/edit?usp=sharing) is now available.
 {: .text-center .notice--info}
 
