@@ -9,58 +9,96 @@ sidebar:
 ---
 
 Please refer to the [Conference blog post](/blog/) for more details information.
-Time Zone: GMT+4
+Time Zone: GST (GMT+4)
 
-## Wed, Dec 7
-Workshops: 9:00 - 6:30     
-Tutorials: 9:00 - 5:30
+## __Wed, Dec 7__
+__Workshops__: 9:00 - 6:30    
+__Tutorials__: 9:00 - 5:30    
+__Locations__: __Workshops and Tutorials__ in Capital Suites 1-10, 12A-B, 13, and 21A-C;  __Posters and Demos__ in Mezzanine    
 
-
-* 9:00-10:30 Morning Session (S1) 
-* 10:30-11:00 Morning Coffee Break (B1)
-* 11:00-12:30 Morning Session (S2)
-* 12:30-2:00 Lunch Break (LB)
-* 2:00-3:30 Afternoon Session (S3)
-* 3:30-4:00 Afternoon Coffee Break (B2)
-* 4:00-5:30 Afternoon Session (S4)
-* 5:30-6:30 Afternoon Session (S5, optional)
-
-
-
-
-## Thu, Dec 8
-Workshops: 9:00 - 6:30    
-Tutorials: 9:00 - 5:30
-
-* 9:00-10:30 Morning Session (S1) 
-* 10:30-11:00 Morning Coffee Break (B1)
-* 11:00-12:30 Morning Session (S2)
-* 12:30-2:00 Lunch Break (LB)
-* 2:00-3:30 Afternoon Session (S3)
-* 3:30-4:00 Afternoon Coffee Break (B2)
-* 4:00-5:30 Afternoon Session (S4)
-* 5:30-6:30 Afternoon Session (S5, optional)
+* 7:30-9:00 __Registration__ (Location: The Link) 
+* 9:00-10:30 __Morning Session 1__
+* 10:30-11:00 __Morning Coffee Break__ 
+* 11:00-12:30 __Morning Session 2__
+* 12:30-2:00 __Lunch Break__ 
+* 2:00-3:30 __Afternoon Session 1__
+* 3:30-4:00 __Afternoon Coffee Break__ 
+* 4:00-5:30 __Afternoon Session 2__
+* 5:30-6:30 __Afternoon Session 3__ (optional)
 
 
 
-Main Conference (Welcome Reception): 7:00 - 10:00       
-(tip: Reception is a 5-minute walking distance from the conference venue)
 
-## Fri, Dec 9
+## __Thu, Dec 8__
+__Workshops__: 9:00 - 6:30    
+__Tutorials__: 9:00 - 5:30    
+__Locations__: __Workshops and Tutorials__ in Capital Suites 1-10, 12A-B, 13, and 21A-C;  __Posters and Demos__ in Mezzanine     
 
-Main Conference: 9:00 - 6:30
+* 7:30-9:00 __Registration__ (Location: The Link) 
+* 9:00-10:30 __Morning Session 1__
+* 10:30-11:00 __Morning Coffee Break__ 
+* 11:00-12:30 __Morning Session 2__
+* 12:30-2:00 __Lunch Break__ 
+* 2:00-3:30 __Afternoon Session 1__
+* 3:30-4:00 __Afternoon Coffee Break__ 
+* 4:00-5:30 __Afternoon Session 2__
+* 5:30-6:30 __Afternoon Session 3__ (optional)
 
-## Sat, Dec 10
 
-Main Conference: 9:00 - 6:00
+__Main Conference ([Welcome Reception](https://2022.emnlp.org/venue#welcome-reception))__: 7:00 - 10:00       
+(Reception is a 5-minute walking distance from the conference venue at the Aloft)
 
-Main Conference (Social Event): 6:30 - 10:30 (Ritz Carlton Abu Dhabi Grand Lawn)
+## __Fri, Dec 9__
+__Main Conference__: 9:00 - 6:30   
+__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhbitions__ in the Atrium.
 
-## Sun, Dec 11
+* 7:15-9:00 __Registration__ (Location: The Link) 
+* 9:00-10:30 __Session 1__: Plenary Opening + [Keynote 1: Neil Cohn](https://2022.emnlp.org/program/keynotes/#speaker-neil-cohn)  (Hall B, overflow in Hall A rooms)
+* 10:30-11:00 __Morning Coffee Break__ 
+* 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
+* 12:30-2:00 __Lunch Break__ 
+* 2:00-3:30 __Session 3__: Oral Sessions, Demos, Posters, Exhibitions
+* 3:30-4:00 __Afternoon Coffee Break__ 
+* 4:00-5:30 __Session 4__: Virtual Portals, Posters, Exhibitions
+* 5:30-6:30 __Session 5__: Plenary: [Industry Track Keynote: Nazneen Rajani](https://2022.emnlp.org/program/keynotes/#speaker-nazneen-rajani) (Hall B, overflow in Hall A rooms)
 
-Main Conference: 9:00 - 5:00
 
-Main Conference (Plenary: Best Papers & Closing Session): 5:00 - 6:15
+
+## __Sat, Dec 10__
+
+__Main Conference__: 9:00 - 6:00   
+__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhbitions__ in the Atrium.
+
+
+* 8:30-9:00 __Registration__ (Location: The Link) 
+* 9:00-10:30 __Session 1__: Oral Sessions, Demos, Posters, Exhibitions
+* 10:30-11:00 __Morning Coffee Break__ 
+* 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
+* 12:30-1:15 __Lunch Break (Short)__ 
+* 1:15-2:00 __Business Meeting__ (Hall B)
+* 2:00-3:00 __Session 3__:  Plenary Keynote 2: [Gary Marcus](https://2022.emnlp.org/program/keynotes/#speaker-gary-marcus) (Hall B, overflow in Hall A rooms)
+* 3:00-3:30 __Afternoon Coffee Break__ 
+* 3:30-5:00 __Session 4__: Virtual Portals, Posters, Exhibitions
+* 5:00-6:00 __Session 5__: Plenary: [Industry Track Panel](https://2022.emnlp.org/program/careers_in_nlp/) (Hall B, overflow in Hall A rooms)
+
+__Main Conference ([Social Event](https://2022.emnlp.org/venue#social-event))__: 6:30 - 10:30 at the Ritz Carlton Abu Dhabi Grand Lawn. Arabian Nights Buffet, cultural stations (Calligrapher, Henna lady, Sadu weaver, and Falconer), and dancing with [DJ Swanahh](https://audiomack.com/djswanahh).  Look out for information about buses to the venue.
+
+## __Sun, Dec 11__
+
+__Main Conference__: 9:00 - 6:15   
+__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhbitions__ in the Atrium.
+
+* 8:30-9:00 __Registration__ (Location: The Link) 
+* 9:00-10:30 __Session 1__: Oral Sessions, Demos, Posters, Exhibitions
+* 10:30-11:00 __Morning Coffee Break__ 
+* 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
+* 12:30-2:00 __Lunch Break__ 
+* 2:00-3:00 __Session 3__: Plenary Keynote 3: [Mona Diab](https://2022.emnlp.org/program/keynotes/#speaker-mona-diab) (Hall B, overflow in Hall A rooms)
+* 3:00-3:30 __Afternoon Coffee Break__ 
+* 3:30-5:00 __Session 4__: Virtual Portals, Posters, Exhibitions
+* 5:00-6:15 __Session 5__: Plenary: Best Papers & Closing Session (Hall B, overflow in Hall A rooms)
+
+ 
 
 <!--Please refer to the [Conference Structure blog post](/blog/conference-structure/) for more details regarding the schedule and presentation formats.
 
