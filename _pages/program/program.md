@@ -81,7 +81,7 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 * 3:30-5:00 __Session 4__: Virtual Portals, Posters, Exhibitions
 * 5:00-6:00 __Session 5__: Plenary: [Industry Track Panel](https://2022.emnlp.org/program/careers_in_nlp/) (Hall B, overflow in Hall A rooms)
 
-__Main Conference ([Social Event](https://2022.emnlp.org/venue#social-event))__: 6:30 - 10:30 at the Ritz Carlton Abu Dhabi Grand Lawn. Arabian Nights Buffet, cultural stations (Calligrapher, Henna lady, Sadu weaver, and Falconer), and dancing with [DJ Swanahh](https://audiomack.com/djswanahh).  Look out for information about buses to the venue.
+__Main Conference ([Social Event](https://2022.emnlp.org/venue#social-event))__: 6:30 - 10:30 at the Ritz Carlton Abu Dhabi Grand Lawn. Arabian Nights Buffet, cultural stations (Calligrapher, Henna lady, Sadu weaver, and Falconer), and dancing with [DJ Swanahh](https://www.instagram.com/djswanahh/).  Look out for information about buses to the venue.
 
 ## __Sun, Dec 11__
 
