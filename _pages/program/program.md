@@ -100,6 +100,16 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 
  
 
+
+## Tutorials and Workshops Map
+![adnec-map-2]({{ site.baseurl }}/assets/images/abu_dhabi/ADNEC-Workshops-Map.png)
+
+## Main Conference Map
+![adnec-map-1]({{ site.baseurl }}/assets/images/abu_dhabi/ADNEC-Main-Map.png)
+
+
+
+
 <!--Please refer to the [Conference Structure blog post](/blog/conference-structure/) for more details regarding the schedule and presentation formats.
 
 The conference schedule can be accessed below (all times PDT, UTC-7):
