@@ -124,6 +124,10 @@ bronze:
     image_path: /assets/images/logos/grammarly-logo.png
     alt: Grammarly
     title: Grammarly
+  - url: https://www.neclab.eu/
+    image_path: /assets/images/logos/nec-logo.png
+    alt: NEC
+    title: NEC
 di_champion:
   - url: https://www.microsoft.com/en-us/research/
     image_path: /assets/images/logos/microsoft-logo.jpg
