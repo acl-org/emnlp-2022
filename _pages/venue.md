@@ -268,11 +268,12 @@ Social Event Ticket - Exhibitor - $125.
 
 
 ## Dining Options     
-There are a variety of dining selections located near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you.    
+There are a variety of dining selections located within and near ADNEC. A short walk or drive away, chances are you will find something to satisfy your tastebuds. From coffee to tapas to cocktails and fine dining. Use a search engine to find a restaurant near you.    
 
-**[Restaurants & Cafes in Abu Dhabi &#124; ADNEC - Abu Dhabi, UAE](https://www.adnec.ae/en/visit/restaurants-listing)**
+- Restaurants & Cafes (Costa, Starbucks)  **within** ADNEC [here](https://www.adnec.ae/en/visit/restaurants-listing).
 
-There are also a number of cafes (Costa, Starbucks) and two supermarkets (Zoom and Lulu Express) within 5 minute walking from ADNEC.
+- Two supermarkets (Zoom and Lulu Express) within 5 minute walking from ADNEC.  
+
 ADNEC is also connected to 2 hotels and 5 minutes walking distance from 3 more hotels.
 Each hotel has various restaurants:
 - Andaz Capital Gate - the list of restaurants can be found [here](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc/dining).
