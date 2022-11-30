@@ -287,8 +287,7 @@ Please check with the specific hotel where you plan to stay for childcare suppor
 
 
 ## Poster Printing
-ADNEC Services provides printing services on site. You may contact customer services by email <customer.services@adnec.ae> for poster printing requirements. If posters are received in advance, they can print them and have them ready.
-
+ADNEC Services provides printing services on site. You may contact customer services by email <customer.services@adnec.ae> for poster printing requirements. If posters are received in advance, they can print them and have them ready.  The cost is AED 364 per A0 foam board poster.
 
 
 ## Places to Visit
