@@ -28,10 +28,6 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 
 For a virtual tour of ADNEC, click [here](https://mc-d9653e4f-fac4-4f15-86b2-409600-cd.azurewebsites.net/shared/virtualtour/index.html).
 
-## Poster Printing
-ADNEC Services provides printing services on site. You may contact customer services by email <customer.services@adnec.ae> for poster printing requirements. If posters are received in advance, they can print them and have them ready.
-
-
 ![adnec-1]({{ site.baseurl }}/assets/images/abu_dhabi/adnec.jpg)
 
 ## Conference Venue Map
@@ -287,6 +283,11 @@ Each hotel has various restaurants:
 
 ## Childcare
 Please check with the specific hotel where you plan to stay for childcare support.
+
+
+## Poster Printing
+ADNEC Services provides printing services on site. You may contact customer services by email <customer.services@adnec.ae> for poster printing requirements. If posters are received in advance, they can print them and have them ready.
+
 
 
 ## Places to Visit
