@@ -9,7 +9,7 @@ sidebar:
 ---
 
 {% include committee-member.html
-   name="Bing Xiang"
+   name=" "
    picture="/assets/images/careers-in-nlp/Bing_Xiang.jpg"
    site=" "
    institution=" "
@@ -18,7 +18,7 @@ sidebar:
 **Bing Xiang** is currently a Director of Applied Science at Amazon Web Services, leading a global science organization in AWS AI Labs. He oversees the science work powering dozens of AWS AI services and products that leverage machine learning and deep learning for search, question answering, information extraction, program synthesis, recommendation, forecasting, anomaly detection, and business analytics. Before joining Amazon in 2017, he was a Principal Research Staff Member and Science Manager at IBM Watson Research Center, leading a research team developing algorithms for multiple NLP services. Prior to IBM, he worked at BBN Technologies as a key contributor to several DARPA projects on speech recognition, speech-to-speech translation, and machine translation. He has published over 100 papers and served as an Area Chair and Program Committee Member at top NLP conferences like ACL, NAACL and EMNLP. He holds a PhD degree from Cornell University and BS/MS degrees from Peking University.
 
 {% include committee-member.html
-   name="Hatem Haddad"
+   name=" "
    picture="/assets/images/careers-in-nlp/Hatem_Haddad.jpg"
    site=" "
    institution=" "
@@ -28,18 +28,18 @@ sidebar:
 
 <!-- ![Asli Celikyilmaz](/assets/images/careers-in-nlp/Asli_Celikyilmaz.jpg){: .align-center} -->
 {% include committee-member.html
-   name="Asli Celikyilmaz"
+   name=" "
    picture="/assets/images/careers-in-nlp/Asli_Celikyilmaz.jpg"
    site=" "
    institution=" "
    email=" "
-%}Yunyao_Li.jpg
+%}
 **Asli Celikyilmaz** is a Research Science Manager at FAIR Labs in Seattle. Formerly, she was Senior Principal Researcher at Microsoft Research (MSR) in Redmond, Washington. She is also an Affiliate Associate Member at the University of Washington. She has received a Ph.D. Degree in Information Science from University of Toronto, Canada, and later continued her Postdoc study at the Computer Science Department of the University of California, Berkeley. Her research interests are mainly in deep learning and natural language, specifically on language generation with long-term coherence, language understanding, language grounding with vision, and building intelligent agents for human-computer interaction She is serving as the co-Editor-in-Chief of the Transactions of the ACL (TACL) and as area editor on Open Journal of Signal Processing (OJSP) as Associate Editor. She has received several “best of” awards including Semantic Computing in 2009, and CVPR in 2019.
 
 ## Moderator 
 
 {% include committee-member.html
-   name="Yunyao Li"
+   name=" "
    picture="/assets/images/careers-in-nlp/Yunyao_Li.jpg"
    site=" "
    institution=" "
