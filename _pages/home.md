@@ -39,6 +39,7 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| Dec 1, 2022 | [TACL Paper (published in the MIT Press): Template-based Abstractive Microblog Opinion Summarisation](blog/TACL-Paper/)
 | Nov 21, 2022 | [TACL Paper (published in the MIT Press): Multi-task Active Learning for Pre-trained Transformer-based Models](blog/TACL-Paper/)
 | Oct 25, 2022 | [Discounted Student Accommodations at EMNLP 2022](blog/Discounted-Student-Accommodations/)
 | Oct 14, 2022 | [Call for BoF Proposals](blog/Call-for-BoF-Proposals/)
