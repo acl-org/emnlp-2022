@@ -1,9 +1,9 @@
 ---
-title: "The EMNLP 2022 Logo"
-author: local-organizing-committee
-author_profile: true
+title: "Birds of a Feather (BoF) Sessions at EMNLP"
+author: website-chairs
+author_profile: false
 tags:
-  Local-Organizing
+  announcement publicity
 categories:
   blog
 ---
