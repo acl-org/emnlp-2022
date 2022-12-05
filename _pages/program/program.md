@@ -110,8 +110,7 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 ![adnec-map-1]({{ site.baseurl }}/assets/images/abu_dhabi/ADNEC-Main-Map.png)
 
 ## Exhibitor Floor Plan
-![adnec-map-3]({{ site.baseurl }}/assets/images/abu_dhabi/2022-EMNLP-EXIBITOR-SET_1.png.png)
-![adnec-map-4]({{ site.baseurl }}/assets/images/abu_dhabi/2022-EMNLP-EXIBITOR-SET_2.png.png)
+![adnec-map-3]({{ site.baseurl }}/assets/images/abu_dhabi/2022-EMNLP-EXIBITOR-SET.png)
 
 
 
