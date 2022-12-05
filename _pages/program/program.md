@@ -11,7 +11,7 @@ sidebar:
 Please refer to the [Conference blog post](/blog/) for more details information.
 Time Zone: GST (GMT+4)
 
-A handbook will be handed out to all in-person participants. It can also be downloaded [here](https://drive.google.com/file/d/1OlPv6QBeo62VVTughj2jkiLeyHd1WnUt/view?usp=sharing).
+We will have a supply of Conf. Handbooks available at Registration Check-in for in-person participants however for an up to date schedule you can download on line  [here](https://drive.google.com/file/d/1OlPv6QBeo62VVTughj2jkiLeyHd1WnUt/view?usp=sharing).
 
 ## __Wed, Dec 7__
 __Workshops__: 9:00 - 6:30    
