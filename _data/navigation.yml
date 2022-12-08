@@ -10,7 +10,10 @@ main:
 
   #- title: "Virtual Conference Website"
   #  url: "https://underline.io/events/122/reception"
-
+  
+  - title: "Proceedings"
+    url: "https://preview.aclanthology.org/emnlp-22-ingestion/volumes/2022.emnlp-main/"
+    
   - title: "Program"
     url: /program/
 
