@@ -9,6 +9,9 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ---
 
 ## News
+[**Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.**](https://preview.aclanthology.org/emnlp-22-ingestion/volumes/2022.emnlp-main/)
+{: .text-center .notice--info}
+
 [**Industry session papers, oral presentations and posters**](/downloads/Submission_Information.xlsx) is now available.
 {: .text-center .notice--info}
 
