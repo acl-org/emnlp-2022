@@ -52,9 +52,9 @@ __Main Conference ([Welcome Reception](https://2022.emnlp.org/venue#welcome-rece
 
 ## __Fri, Dec 9__
 __Main Conference__: 9:00 - 6:30   
-__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhbitions__ in the Atrium.
+__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhibitions__ in the Atrium.
 
-* 7:15-9:00 __Registration__ (Location: The Link) 
+* 8:00am-4:30 __Registration__ (Location: The Link) 
 * 9:00-10:30 __Session 1__: Plenary Opening + [Keynote 1: Neil Cohn](https://2022.emnlp.org/program/keynotes/#speaker-neil-cohn)  (Hall B, overflow in Hall A rooms)
 * 10:30-11:00 __Morning Coffee Break__ 
 * 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
@@ -69,10 +69,10 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 ## __Sat, Dec 10__
 
 __Main Conference__: 9:00 - 6:00   
-__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhbitions__ in the Atrium.
+__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhibitions__ in the Atrium.
 
 
-* 8:30-9:00 __Registration__ (Location: The Link) 
+* 8:30-4:30 __Registration__ (Location: The Link) 
 * 9:00-10:30 __Session 1__: Oral Sessions, Demos, Posters, Exhibitions
 * 10:30-11:00 __Morning Coffee Break__ 
 * 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
@@ -83,14 +83,14 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 * 3:30-5:00 __Session 4__: Virtual Portals, Posters, Exhibitions
 * 5:00-6:00 __Session 5__: Plenary: [Industry Track Panel](https://2022.emnlp.org/program/careers_in_nlp/) (Hall B, overflow in Hall A rooms)
 
-__Main Conference ([Social Event](https://2022.emnlp.org/venue#social-event))__: 6:30 - 10:30 at the Ritz Carlton Abu Dhabi Grand Lawn. Arabian Nights Buffet, cultural stations (Calligrapher, Henna lady, Sadu weaver, and Falconer), and dancing with [DJ Swanahh](https://www.instagram.com/djswanahh/).  Look out for information about buses to the venue.
+__Main Conference ([Social Event](https://2022.emnlp.org/venue#social-event))__: 6:30 - 10:30 Transportation to and from The Ritz Carlton. 7:00 - 10:00 at the Ritz Carlton Abu Dhabi Grand Lawn. Arabian Nights Buffet, cultural stations (Calligrapher, Henna lady, Sadu weaver, and Falconer), and dancing with [DJ Swanahh](https://www.instagram.com/djswanahh/).  Look out for information about buses to the venue.
 
 ## __Sun, Dec 11__
 
 __Main Conference__: 9:00 - 6:15   
-__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhbitions__ in the Atrium.
+__Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhibitions__ in the Atrium.
 
-* 8:30-9:00 __Registration__ (Location: The Link) 
+* 8:30-4:30 __Registration__ (Location: The Link) 
 * 9:00-10:30 __Session 1__: Oral Sessions, Demos, Posters, Exhibitions
 * 10:30-11:00 __Morning Coffee Break__ 
 * 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
