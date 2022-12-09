@@ -73,14 +73,14 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 
 
 * 8:30-4:30 __Registration__ (Location: The Link) 
-* 9:00-10:30 __Session 1__: Oral Sessions, Demos, Posters, Exhibitions
+* 9:00-10:30 __Session 1__: Oral Sessions, [Demos, Posters](https://drive.google.com/file/d/1yxpkSKDiQ2jYnT4oZRfA6DWFJYaRSjwm/view), Exhibitions
 * 10:30-11:00 __Morning Coffee Break__ 
-* 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
+* 11:00-12:30 __Session 2__: Oral Sessions, [Demos, Posters](https://drive.google.com/file/d/1yxpkSKDiQ2jYnT4oZRfA6DWFJYaRSjwm/view), Exhibitions
 * 12:30-1:15 __Lunch Break (Short)__ 
 * 1:15-2:00 __Business Meeting__ (Hall B)
 * 2:00-3:00 __Session 3__:  Plenary Keynote 2: [Gary Marcus](https://2022.emnlp.org/program/keynotes/#speaker-gary-marcus) (Hall B, overflow in Hall A rooms)
 * 3:00-3:30 __Afternoon Coffee Break__ 
-* 3:30-5:00 __Session 4__: Virtual Portals, Posters, Exhibitions
+* 3:30-5:00 __Session 4__: [Virtual Portals, Posters](https://drive.google.com/file/d/1yxpkSKDiQ2jYnT4oZRfA6DWFJYaRSjwm/view), Exhibitions
 * 5:00-6:00 __Session 5__: Plenary: [Industry Track Panel](https://2022.emnlp.org/program/careers_in_nlp/) (Hall B, overflow in Hall A rooms)
 
 __Main Conference ([Social Event](https://2022.emnlp.org/venue#social-event))__: 6:30 - 10:30 Transportation to and from The Ritz Carlton. 7:00 - 10:00 at the Ritz Carlton Abu Dhabi Grand Lawn. Arabian Nights Buffet, cultural stations (Calligrapher, Henna lady, Sadu weaver, and Falconer), and dancing with [DJ Swanahh](https://www.instagram.com/djswanahh/).  Look out for information about buses to the venue.
