@@ -91,13 +91,13 @@ __Main Conference__: 9:00 - 6:15
 __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), Hall B, and The Hive Collaboratorium; __Posters, Demos, and Exhibitions__ in the Atrium.
 
 * 8:30-4:30 __Registration__ (Location: The Link) 
-* 9:00-10:30 __Session 1__: Oral Sessions, Demos, Posters, Exhibitions
+* 9:00-10:30 __Session 1__: Oral Sessions, [Demos, Posters](https://drive.google.com/file/d/1acA7HrKL4_AAOP_MHG5kheA_olWwyua1/view?usp=sharing), Exhibitions
 * 10:30-11:00 __Morning Coffee Break__ 
-* 11:00-12:30 __Session 2__: Oral Sessions, Demos, Posters, Exhibitions
+* 11:00-12:30 __Session 2__: Oral Sessions, [Demos, Posters](https://drive.google.com/file/d/1acA7HrKL4_AAOP_MHG5kheA_olWwyua1/view?usp=sharing), Exhibitions
 * 12:30-2:00 __Lunch Break__ 
 * 2:00-3:00 __Session 3__: Plenary Keynote 3: [Mona Diab](https://2022.emnlp.org/program/keynotes/#speaker-mona-diab) (Hall B, overflow in Hall A rooms)
 * 3:00-3:30 __Afternoon Coffee Break__ 
-* 3:30-5:00 __Session 4__: Virtual Portals, Posters, Exhibitions
+* 3:30-5:00 __Session 4__: [Virtual Portals, Posters](https://drive.google.com/file/d/1acA7HrKL4_AAOP_MHG5kheA_olWwyua1/view?usp=sharing), Exhibitions
 * 5:00-6:15 __Session 5__: Plenary: Best Papers & Closing Session (Hall B, overflow in Hall A rooms)
 
  
