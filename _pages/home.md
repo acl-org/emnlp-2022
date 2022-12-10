@@ -9,6 +9,9 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ---
 
 ## News
+[**Directions to the Social Event (Dec 10).**](https://twitter.com/emnlpmeeting/status/1601534679815004166)
+{: .text-center .notice--info}
+
 [**In-Person Conference Attendee Poster and Demo Session Assignments (Dec 10).**](https://drive.google.com/file/d/1yxpkSKDiQ2jYnT4oZRfA6DWFJYaRSjwm/view)
 {: .text-center .notice--info}
 
