@@ -9,10 +9,13 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ---
 
 ## News
-[**In-Person Conference Attendee Poster and Demo Session Assignments (Dec 10).**](https://drive.google.com/file/d/1yxpkSKDiQ2jYnT4oZRfA6DWFJYaRSjwm/view)
+[**Talk video by Gary Marcus.**](https://www.dropbox.com/s/816jhaqp9nqcnry/EMNLP%20odf%20video.mp4?dl=0)
 {: .text-center .notice--info}
 
 [**In-Person Conference Attendee Poster and Demo Session Assignments (Dec 11).**](https://drive.google.com/file/d/1acA7HrKL4_AAOP_MHG5kheA_olWwyua1/view)
+{: .text-center .notice--info}
+
+[**In-Person Conference Attendee Poster and Demo Session Assignments (Dec 10).**](https://drive.google.com/file/d/1yxpkSKDiQ2jYnT4oZRfA6DWFJYaRSjwm/view)
 {: .text-center .notice--info}
 
 
