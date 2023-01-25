@@ -555,7 +555,7 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Kenthon Lee"
+   name="Kenton Lee"
    picture="/assets/images/committee/sac/KentonLee.jpg"
    site="https://kentonl.com/"
    institution="Google Research"
