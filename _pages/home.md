@@ -9,6 +9,9 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ---
 
 ## News
+[**Proceedings of EMNLP 2022.**](https://aclanthology.org/events/emnlp-2022/)
+{: .text-center .notice--info}
+
 [**Talk video by Gary Marcus.**](https://www.dropbox.com/s/816jhaqp9nqcnry/EMNLP%20odf%20video.mp4?dl=0)
 {: .text-center .notice--info}
 
